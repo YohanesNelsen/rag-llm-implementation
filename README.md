@@ -1,8 +1,10 @@
 # Data Engineering Individual Project
 ## Overview
-This project provides a web scraper for extracting reviews and additional infromation from Steam and SteamDB using Microsoft Edge browser. It utilizes a Jupyter Notebook along with EdgeDriver for automation. The scraper is designed to fetch reviews for a specified Steam game ID.
+This project utilise data from Steam, a popular online market for pc games. I webscrape several information, clean it, utilise apache spark and apply RAG and LLM to analise it.
 
 # Steam Web Scraping
+This part provides a web scraper for extracting reviews and additional infromation from Steam and SteamDB using Microsoft Edge browser. It utilizes a Jupyter Notebook along with EdgeDriver for automation. The scraper is designed to fetch reviews for a specified Steam game ID.
+
 ## Requirements
 Microsoft Edge browser <br>
 Jupyter Notebook <br>
@@ -26,6 +28,8 @@ It is important to keep EdgeDriver up to date for compatibility with the Microso
 This web scraper does not extract Steam account ID to protect user data.
 
 # Data Cleaning
+This section outlines a process for cleaning the data obtained through "Web Scraping" and merging it into three final databases, which are prepared for further processing.
+
 ## Requirement
 All csv files from web scraping <br>
 Jupyter Notebook <br>
