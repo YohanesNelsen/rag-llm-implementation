@@ -1,0 +1,124 @@
+currency	current price	converted price	lowest recorded price	game
+british pound	22.491	22.49	22.491	palworld
+south asia - usd	9.441	7.47	7.47	palworld
+russian ruble	99010.0	8.47	8.47	palworld
+south african rand	243.001	10.31	10.31	palworld
+cis - u.s. dollar	13.041	10.32	10.32	palworld
+chinese yuan	97.201	10.63	10.63	palworld
+latam - u.s. dollar	13.491	10.68	10.68	palworld
+mena - u.s. dollar	13.491	10.68	10.68	palworld
+malaysian ringgit	64.801	10.8	10.8	palworld
+taiwan dollar	43910.0	10.82	10.82	palworld
+ukrainian hryvnia	54010.0	10.94	10.94	palworld
+vietnamese dong	34650010.0	10.98	10.98	palworld
+indonesian rupiah	22139910.0	11.04	11.04	palworld
+indian rupee	117010.0	11.11	11.11	palworld
+kuwaiti dinar	4.451	11.45	11.45	palworld
+philippine peso	819.001	11.46	11.46	palworld
+thai baht	531.001	11.49	11.49	palworld
+chilean peso	1395010.0	11.64	11.64	palworld
+saudi riyal	55.341	11.68	11.68	palworld
+kazakhstani tenge	684010.0	12.12	12.12	palworld
+peruvian sol		12.18	12.18	palworld
+brazilian real		12.52	12.52	palworld
+qatari riyal	58.491	12.71	12.71	palworld
+colombian peso	6300010.0	13.21	13.21	palworld
+singapore dollar	23.401	13.74	13.74	palworld
+mexican peso	301.491	14.47	14.47	palworld
+u.a.e. dirham	71.101	15.32	15.32	palworld
+japanese yen	306010.0	15.98	15.98	palworld
+uruguayan peso	79610.0	16.61	16.61	palworld
+south korean won	2880010.0	16.86	16.86	palworld
+hong kong dollar	168.301	17.02	17.02	palworld
+costa rican colon	1116010.0	17.35	17.35	palworld
+new zealand dollar	39.231	18.69	18.69	palworld
+canadian dollar	35.091	20.45	20.45	palworld
+australian dollar	39.551	20.61	20.61	palworld
+israeli new shekel	99.851	21.0	21.0	palworld
+u.s. dollar	26.991	21.36	21.36	palworld
+norwegian krone		22.27	22.27	palworld
+euro		22.39	22.39	palworld
+polish zloty		25.07	25.07	palworld
+swiss franc	30.151	26.5	26.5	palworld
+british pound	12.594	12.59	11.694	craftopia
+south asia - usd	5.094	4.02	4.02	craftopia
+russian ruble	55240.0	4.72	2.38	craftopia
+south african rand	138.004	5.85	3.81	craftopia
+cis - u.s. dollar	7.494	5.92	5.92	craftopia
+latam - u.s. dollar	7.494	5.92	5.92	craftopia
+mena - u.s. dollar	7.494	5.92	5.92	craftopia
+taiwan dollar	24440.0	6.01	5.57	craftopia
+chinese yuan	55.204	6.04	5.25	craftopia
+malaysian ringgit	36.604	6.1	4.4	craftopia
+vietnamese dong	19250040.0	6.1	4.18	craftopia
+indonesian rupiah	12419940.0	6.19	3.59	craftopia
+ukrainian hryvnia	30940.0	6.26	3.99	craftopia
+indian rupee	66040.0	6.27	3.24	craftopia
+philippine peso	459.004	6.42	4.61	craftopia
+thai baht	297.004	6.42	4.14	craftopia
+chilean peso	780040.0	6.5	4.75	craftopia
+saudi riyal	30.894	6.51	5.05	craftopia
+kuwaiti dinar	2.554	6.56	6.56	craftopia
+kazakhstani tenge	384040.0	6.8	3.5	craftopia
+peruvian sol		6.83	5.8	craftopia
+brazilian real		6.93	4.45	craftopia
+qatari riyal	32.994	7.17	6.52	craftopia
+colombian peso	3528040.0	7.4	4.21	craftopia
+singapore dollar	13.204	7.75	7.75	craftopia
+mexican peso	169.794	8.15	6.74	craftopia
+u.a.e. dirham	39.604	8.53	8.53	craftopia
+japanese yen	168040.0	8.77	8.05	craftopia
+uruguayan peso	44440.0	9.26	6.61	craftopia
+hong kong dollar	93.604	9.46	6.61	craftopia
+south korean won	1620040.0	9.48	9.13	craftopia
+costa rican colon	630040.0	9.79	9.79	craftopia
+new zealand dollar	21.594	10.28	8.85	craftopia
+canadian dollar	19.504	11.36	10.13	craftopia
+australian dollar	21.904	11.41	11.24	craftopia
+israeli new shekel	55.774	11.73	11.73	craftopia
+u.s. dollar	14.994	11.86	11.86	craftopia
+norwegian krone		12.41	7.8	craftopia
+euro		12.61	10.8	craftopia
+polish zloty		13.82	10.82	craftopia
+swiss franc	16.794	14.76	13.18	craftopia
+british pound	8.5	8.5	5.953	lethal companies
+russian ruble	385.0	3.29	2.3	lethal companies
+south african rand	100.0	4.24	2.97	lethal companies
+south asia - usd	5.49	4.34	3.04	lethal companies
+malaysian ringgit	26.75	4.46	3.12	lethal companies
+vietnamese dong	142000.0	4.5	3.15	lethal companies
+indonesian rupiah	90999.0	4.53	3.17	lethal companies
+ukrainian hryvnia	225.0	4.55	3.18	lethal companies
+indian rupee	480.0	4.56	3.19	lethal companies
+latam - u.s. dollar	5.79	4.58	3.2	lethal companies
+mena - u.s. dollar	5.79	4.58	3.2	lethal companies
+chinese yuan	42.0	4.59	3.21	lethal companies
+taiwan dollar	188.0	4.63	3.23	lethal companies
+philippine peso	335.0	4.68	3.28	lethal companies
+saudi riyal	22.49	4.74	3.32	lethal companies
+thai baht	220.0	4.76	3.33	lethal companies
+chilean peso	5750.0	4.79	3.35	lethal companies
+peruvian sol		4.94	3.46	lethal companies
+cis - u.s. dollar	6.29	4.97	3.48	lethal companies
+kuwaiti dinar	1.95	5.02	3.5	lethal companies
+kazakhstani tenge	2900.0	5.14	3.59	lethal companies
+brazilian real		5.15	3.6	lethal companies
+qatari riyal	24.99	5.43	3.8	lethal companies
+colombian peso	26000.0	5.45	3.81	lethal companies
+singapore dollar	10.0	5.87	4.11	lethal companies
+mexican peso	123.99	5.95	4.16	lethal companies
+u.a.e. dirham	29.0	6.25	4.37	lethal companies
+japanese yen	1200.0	6.26	4.38	lethal companies
+south korean won	11000.0	6.44	4.5	lethal companies
+uruguayan peso	310.0	6.46	4.52	lethal companies
+hong kong dollar	66.0	6.67	4.67	lethal companies
+new zealand dollar	14.75	7.02	4.91	lethal companies
+costa rican colon	4600.0	7.15	5.0	lethal companies
+australian dollar	14.5	7.55	5.29	lethal companies
+canadian dollar	12.99	7.57	5.29	lethal companies
+israeli new shekel	36.95	7.77	5.44	lethal companies
+u.s. dollar	9.99	7.9	5.53	lethal companies
+norwegian krone		8.12	5.68	lethal companies
+euro		8.36	5.85	lethal companies
+polish zloty		9.21	6.45	lethal companies
+swiss franc	10.99	9.66	6.76	lethal companies

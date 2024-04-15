@@ -1,0 +1,582 @@
+game	developer	in-game count	tags	categories
+lethal companies	zeekerss	22876	 online coop,  horror,  firstperson,  coop,  survival horror,  psychological horror,  exploration,  scifi,  funny,  pve,  atmospheric,  procedural generation,  aliens,  time management,  adventure,  dungeon crawler,  action,  early access,  actionadventure,  perma death	single-player, online co-op, family sharing, early access, multi-player, co-op, partial controller support
+craftopia	pocketpair	335	 open world,  crafting,  survival,  multiplayer,  open world survival craft,  rpg,  sandbox,  building,  online coop,  adventure,  action,  early access,  coop,  anime,  character customization,  indie,  hack and slash,  automation,  singleplayer,  third person	single-player, online co-op, lan co-op, steam achievements, steam workshop, remote play on tablet, family sharing, early access, multi-player, co-op, partial controller support
+palworld	pocketpair	60281	 multiplayer,  open world,  survival,  creature collector,  open world survival craft,  crafting,  coop,  adventure,  sandbox,  thirdperson shooter,  automation,  action,  early access,  rpg,  anime,  pve,  3d,  indie,  looter shooter,  hack and slash	single-player, online co-op, steam achievements, steam cloud, family sharing, early access, multi-player, co-op, full controller support, dualshock controllers (usb only), dualshock controllers, dualsense controllers (usb only), dualsense controllers
+
+currency	current price	converted price	lowest recorded price	game
+british pound	22.491	22.49	22.491	palworld
+south asia - usd	9.441	7.47	7.47	palworld
+russian ruble	99010.0	8.47	8.47	palworld
+south african rand	243.001	10.31	10.31	palworld
+cis - u.s. dollar	13.041	10.32	10.32	palworld
+chinese yuan	97.201	10.63	10.63	palworld
+latam - u.s. dollar	13.491	10.68	10.68	palworld
+mena - u.s. dollar	13.491	10.68	10.68	palworld
+malaysian ringgit	64.801	10.8	10.8	palworld
+taiwan dollar	43910.0	10.82	10.82	palworld
+ukrainian hryvnia	54010.0	10.94	10.94	palworld
+vietnamese dong	34650010.0	10.98	10.98	palworld
+indonesian rupiah	22139910.0	11.04	11.04	palworld
+indian rupee	117010.0	11.11	11.11	palworld
+kuwaiti dinar	4.451	11.45	11.45	palworld
+philippine peso	819.001	11.46	11.46	palworld
+thai baht	531.001	11.49	11.49	palworld
+chilean peso	1395010.0	11.64	11.64	palworld
+saudi riyal	55.341	11.68	11.68	palworld
+kazakhstani tenge	684010.0	12.12	12.12	palworld
+peruvian sol		12.18	12.18	palworld
+brazilian real		12.52	12.52	palworld
+qatari riyal	58.491	12.71	12.71	palworld
+colombian peso	6300010.0	13.21	13.21	palworld
+singapore dollar	23.401	13.74	13.74	palworld
+mexican peso	301.491	14.47	14.47	palworld
+u.a.e. dirham	71.101	15.32	15.32	palworld
+japanese yen	306010.0	15.98	15.98	palworld
+uruguayan peso	79610.0	16.61	16.61	palworld
+south korean won	2880010.0	16.86	16.86	palworld
+hong kong dollar	168.301	17.02	17.02	palworld
+costa rican colon	1116010.0	17.35	17.35	palworld
+new zealand dollar	39.231	18.69	18.69	palworld
+canadian dollar	35.091	20.45	20.45	palworld
+australian dollar	39.551	20.61	20.61	palworld
+israeli new shekel	99.851	21.0	21.0	palworld
+u.s. dollar	26.991	21.36	21.36	palworld
+norwegian krone		22.27	22.27	palworld
+euro		22.39	22.39	palworld
+polish zloty		25.07	25.07	palworld
+swiss franc	30.151	26.5	26.5	palworld
+british pound	12.594	12.59	11.694	craftopia
+south asia - usd	5.094	4.02	4.02	craftopia
+russian ruble	55240.0	4.72	2.38	craftopia
+south african rand	138.004	5.85	3.81	craftopia
+cis - u.s. dollar	7.494	5.92	5.92	craftopia
+latam - u.s. dollar	7.494	5.92	5.92	craftopia
+mena - u.s. dollar	7.494	5.92	5.92	craftopia
+taiwan dollar	24440.0	6.01	5.57	craftopia
+chinese yuan	55.204	6.04	5.25	craftopia
+malaysian ringgit	36.604	6.1	4.4	craftopia
+vietnamese dong	19250040.0	6.1	4.18	craftopia
+indonesian rupiah	12419940.0	6.19	3.59	craftopia
+ukrainian hryvnia	30940.0	6.26	3.99	craftopia
+indian rupee	66040.0	6.27	3.24	craftopia
+philippine peso	459.004	6.42	4.61	craftopia
+thai baht	297.004	6.42	4.14	craftopia
+chilean peso	780040.0	6.5	4.75	craftopia
+saudi riyal	30.894	6.51	5.05	craftopia
+kuwaiti dinar	2.554	6.56	6.56	craftopia
+kazakhstani tenge	384040.0	6.8	3.5	craftopia
+peruvian sol		6.83	5.8	craftopia
+brazilian real		6.93	4.45	craftopia
+qatari riyal	32.994	7.17	6.52	craftopia
+colombian peso	3528040.0	7.4	4.21	craftopia
+singapore dollar	13.204	7.75	7.75	craftopia
+mexican peso	169.794	8.15	6.74	craftopia
+u.a.e. dirham	39.604	8.53	8.53	craftopia
+japanese yen	168040.0	8.77	8.05	craftopia
+uruguayan peso	44440.0	9.26	6.61	craftopia
+hong kong dollar	93.604	9.46	6.61	craftopia
+south korean won	1620040.0	9.48	9.13	craftopia
+costa rican colon	630040.0	9.79	9.79	craftopia
+new zealand dollar	21.594	10.28	8.85	craftopia
+canadian dollar	19.504	11.36	10.13	craftopia
+australian dollar	21.904	11.41	11.24	craftopia
+israeli new shekel	55.774	11.73	11.73	craftopia
+u.s. dollar	14.994	11.86	11.86	craftopia
+norwegian krone		12.41	7.8	craftopia
+euro		12.61	10.8	craftopia
+polish zloty		13.82	10.82	craftopia
+swiss franc	16.794	14.76	13.18	craftopia
+british pound	8.5	8.5	5.953	lethal companies
+russian ruble	385.0	3.29	2.3	lethal companies
+south african rand	100.0	4.24	2.97	lethal companies
+south asia - usd	5.49	4.34	3.04	lethal companies
+malaysian ringgit	26.75	4.46	3.12	lethal companies
+vietnamese dong	142000.0	4.5	3.15	lethal companies
+indonesian rupiah	90999.0	4.53	3.17	lethal companies
+ukrainian hryvnia	225.0	4.55	3.18	lethal companies
+indian rupee	480.0	4.56	3.19	lethal companies
+latam - u.s. dollar	5.79	4.58	3.2	lethal companies
+mena - u.s. dollar	5.79	4.58	3.2	lethal companies
+chinese yuan	42.0	4.59	3.21	lethal companies
+taiwan dollar	188.0	4.63	3.23	lethal companies
+philippine peso	335.0	4.68	3.28	lethal companies
+saudi riyal	22.49	4.74	3.32	lethal companies
+thai baht	220.0	4.76	3.33	lethal companies
+chilean peso	5750.0	4.79	3.35	lethal companies
+peruvian sol		4.94	3.46	lethal companies
+cis - u.s. dollar	6.29	4.97	3.48	lethal companies
+kuwaiti dinar	1.95	5.02	3.5	lethal companies
+kazakhstani tenge	2900.0	5.14	3.59	lethal companies
+brazilian real		5.15	3.6	lethal companies
+qatari riyal	24.99	5.43	3.8	lethal companies
+colombian peso	26000.0	5.45	3.81	lethal companies
+singapore dollar	10.0	5.87	4.11	lethal companies
+mexican peso	123.99	5.95	4.16	lethal companies
+u.a.e. dirham	29.0	6.25	4.37	lethal companies
+japanese yen	1200.0	6.26	4.38	lethal companies
+south korean won	11000.0	6.44	4.5	lethal companies
+uruguayan peso	310.0	6.46	4.52	lethal companies
+hong kong dollar	66.0	6.67	4.67	lethal companies
+new zealand dollar	14.75	7.02	4.91	lethal companies
+costa rican colon	4600.0	7.15	5.0	lethal companies
+australian dollar	14.5	7.55	5.29	lethal companies
+canadian dollar	12.99	7.57	5.29	lethal companies
+israeli new shekel	36.95	7.77	5.44	lethal companies
+u.s. dollar	9.99	7.9	5.53	lethal companies
+norwegian krone		8.12	5.68	lethal companies
+euro		8.36	5.85	lethal companies
+polish zloty		9.21	6.45	lethal companies
+swiss franc	10.99	9.66	6.76	lethal companies
+
+reviewtext	review	reviewlength	playhours	dateposted	game
+good game	recommended	25	34.1	posted: april 5	lethal companies
+very lethal, 10/10	recommended	33	19.9	posted: april 5	lethal companies
+pretty fun game especially whit mods and friends :d (p.s this can be named bracken dating sim lmao)	recommended	99	48.7	posted: april 5	lethal companies
+good	recommended	21	33.9	posted: april 5	lethal companies
+i saw my friend being eaten alive, while my other friend hit the griddy next to him	recommended	84	58.4	posted: april 5	lethal companies
+the community is mostly nice and the gameplay is solid. (but you knew that didn't you?)	recommended	89	19.6	posted: april 5	lethal companies
+love it	recommended	23	4.6	posted: april 5	lethal companies
+the future pentacle of child labor.	recommended	47	27.9	posted: april 5	lethal companies
+qdasdasd	recommended	25	12.7	posted: april 5	lethal companies
+my team drowned themselves and i had to do everything	recommended	61	6.1	posted: april 5	lethal companies
+peak fiction	recommended	28	123.2	posted: april 5	lethal companies
+nice 10/10 a sus kid joined me now i hate my life good game i lovee it	recommended	71	40.3	posted: april 5	lethal companies
+nice game i like it	recommended	32	10.4	posted: april 5	lethal companies
+10/10	recommended	22	9.6	posted: april 5	lethal companies
+this game is very fun especially with friends, if you don't have any though it's still very fun if you find a good public lobby	recommended	120	77.4	posted: april 5	lethal companies
+i love the company	recommended	32	163.3	posted: april 5	lethal companies
+its epic gamer	recommended	29	9.7	posted: april 5	lethal companies
+great game	recommended	26	13.7	posted: april 5	lethal companies
+absolutely great game. good fear factor, amazing with friends, mods are great.it's not really for me though.	not recommended	109	1.0	posted: april 5	lethal companies
+i got touched 10/10	recommended	33	34.7	posted: april 5	lethal companies
+great game, fun to play with friends. terrifying monsters with a stamina system just barely enough to run away and hide or escape them.very unique while playing alone, not hearing friends and collecting quota on your own.has a very big modding community, with bigger lobbies, more monsters, moons, and room interiors for more content	recommended	297	93.7	posted: 5 april	lethal companies
+it's not the hype anymore but still fun 2 play ^_^	recommended	57	26.5	posted: april 5	lethal companies
+watched as 2 turrets and 3 mines killed all my friends meanwhile one of them was blaring white girl music. 10/10 would recommend	recommended	123	78.4	posted: april 5	lethal companies
+good game and fun	recommended	31	15.2	posted: april 5	lethal companies
+my friends locked me out of the ship as i was being attacked by bees	recommended	71	12.8	posted: april 5	lethal companies
+good	recommended	21	63.8	posted: april 5	lethal companies
+is good	recommended	23	63.9	posted: april 5	lethal companies
+sure	recommended	21	5.2	posted: 5 april	lethal companies
+i will leave my cat here, so that everybody who passes by can pet it and give it a thumbs up and awards.⠀⠀⠀⠀⠀⠀⢀⡤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡏⠀⠀⠈⠳⣄⠀⠀⠀⠀⠀⣀⠴⠋⠉⠉⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠈⠉⠉⠙⠓⠚⠁⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠀⠀⠀⠀⠀⠀⠀⠀⡞⠀⠀⠀⠀⠀⠶⠀⠀⠀⠀⠀⠀⠦⠀⠀⠀⠀⠀⠸⡆⠀⠀⠀⢠⣤⣶⣾⣧⣤⣤⣀⡀⠀⠀⠀⠀⠈⠀⠀⠀⢀⡤⠴⠶⠤⢤⡀⣧⣀⣀⠀⠻⠶⣾⠁⠀⠀⠀⠀⠙⣆⠀⠀⠀⠀⠀⠀⣰⠋⠀⠀⠀⠀⠀⢹⣿⣭⣽⠇⠀⠀⠙⠤⠴⢤⡤⠤⠤⠋⠉⠉⠉⠉⠉⠉⠉⠳⠖⠦⠤⠶⠦⠞⠁⠀⠀	recommended	322	5.0	posted: april 5	lethal companies
+game is really good mostly with friends also as a solo it's tough but fun. it's a loot extraction game with a very small learning curve that does ramp up slightly at harder moons. game also feels very casual which is nice you aren't forced to grind out anything except a few ship upgrades early game but those mostly just add qol rather than a must have immediately.one thing i will say that is terrible about this game is public lobbies. i'd say about 30% of the public lobby players are cheaters some do it blatantly and some not like i had one guy flying through the walls when we weren't around and extracting tons of loot ended up seeing him in death cam then i had another guy join our pretty progressed save as a random 4th and he waited for quota day and deleted all the items in the ship. i also had a player join and flip the monitor and storage unit on its side which was not fixable without cheats. also nothing is done at all to combat cheaters in this game since it's a small dev team and a non competitive casual game which i get it that's exactly why people cheat but honestly after seeing it even a few times it gets old and kinda ruins the multiplayer experience which is one of the better aspects of this game.another problem with the game is the amount of trolls out of the 70% non cheaters expect about 4/5 of these other randoms to be complete trolls anything from turning the lights of and hiding the light switch to blaring music in their microphone or loud noises. these are easy enough to deal with as you can mute players but there are also items in the game that turn you into a mimic which can throw your whole run and weapons which allow players to come in and kill everyone in the lobby.tldr good game, avoid playing with random people, good entry level game for loot extraction genre.	recommended	1492	39.9	posted: april 5	lethal companies
+very fun	recommended	24	16.8	posted: april 5	lethal companies
+very fun game, play +20 player mod	recommended	45	40.9	posted: april 5	lethal companies
+this game is perfect with the boys. i recommend it	recommended	58	56.7	posted: april 5	lethal companies
+yes	recommended	20	8.8	posted: april 5	lethal companies
+silly yipppe and thr spook	recommended	39	2.1	posted: april 5	lethal companies
+good	recommended	21	5.1	posted: april 5	lethal companies
+simple game with simple catch. fun only with couple friends.	recommended	68	8.1	posted: 5 april	lethal companies
+america ya :3	recommended	28	34.9	posted: april 5	lethal companies
+it was very fun with the boyos	recommended	41	13.0	posted: 5 april	lethal companies
+it is fun	recommended	24	8.4	posted: april 5	lethal companies
+this game keeps giving me boners, help me.	recommended	52	129.0	posted: april 5	lethal companies
+make lethal company great again!	not recommended	45	29.2	posted: april 5	lethal companies
+best game	recommended	25	4.0	posted: april 5	lethal companies
+cannot play the game with zach because it always devolves into gay erp with someone else on our crew	recommended	99	74.9	posted: april 5	lethal companies
+pretty cool	recommended	27	60.4	posted: april 5	lethal companies
+me when the business is fatal	recommended	41	8.3	posted: april 5	lethal companies
+beta keeps crashing. never had this issue before.	recommended	59	48.3	posted: april 5	lethal companies
+good	recommended	21	97.4	posted: april 5	lethal companies
+this game is seegma :)	recommended	35	36.2	posted: april 5	lethal companies
+its fun	recommended	23	148.9	posted: april 5	lethal companies
+i think this is a fun game to play with friends or even solo	recommended	64	140.7	posted: 5 april	lethal companies
+most fun i've ever had in a multiplayer game	recommended	53	63.1	posted: april 5	lethal companies
+best game i have played in a long time, do yourself a favor and just buy it.	recommended	77	95.8	posted: april 5	lethal companies
+noo	recommended	20	19.1	posted: 5 april	lethal companies
+asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset asset a great great asset	recommended	773	52.8	posted: april 5	lethal companies
+karena teman saya beban	not recommended	37	21.4	posted: april 5	lethal companies
+idfk	recommended	21	2.0	posted: april 5	lethal companies
+gud	recommended	20	28.8	posted: april 5	lethal companies
+it is a fun multiplayer game that requires teamwork and dumbness	recommended	71	58.9	posted: april 5	lethal companies
+very nice besides getting called slurs all the time pretty cool	recommended	70	11.8	posted: april 5	lethal companies
+its a very good horror game to play with your friends would recommend	recommended	74	24.5	posted: april 5	lethal companies
+fun times	recommended	25	98.2	posted: april 5	lethal companies
+good	recommended	21	104.5	posted: april 5	lethal companies
+thumper is hot	recommended	29	56.8	posted: april 5	lethal companies
+fantastic game to play with friends, a little bit of horror is added but it spices up the overall experience.	recommended	107	9.2	posted: april 5	lethal companies
+the best thing about this game is the perfect cuts when your friends die.(no one will read this ik)	recommended	98	3.2	posted: april 5	lethal companies
+so fun and enjoyable you will get hooked emedeatly should play with friends	recommended	80	13.6	posted: april 5	lethal companies
+my friends are boring but this games pretty cool	recommended	57	4.0	posted: april 5	lethal companies
+funny with friends	recommended	33	56.1	posted: april 5	lethal companies
+hehehe	recommended	23	36.5	posted: april 5	lethal companies
+watch out for bees	recommended	32	11.1	posted: april 5	lethal companies
+i will eat 1 tablespoon of mayonnaise for every like this review gets.	recommended	75	15.0	posted: april 5	lethal companies
+it's a ruthless frustrating masochistic game... that's also very enjoyable.	recommended	83	29.5	posted: april 5	lethal companies
+im terrified of the man thats comes in my behind	recommended	56	28.4	posted: april 5	lethal companies
+i threw the ♥♥♥♥♥♥♥ game because of a spore lizard10/10 would play with friends only	recommended	87	3.5	posted: april 5	lethal companies
+very epic	recommended	25	50.2	posted: april 5	lethal companies
+it amazing	recommended	26	31.6	posted: april 5	lethal companies
+yes	recommended	20	12.9	posted: april 5	lethal companies
+good game very scary! oooooooooooh ghosts	recommended	53	229.3	posted: april 5	lethal companies
+wow	recommended	20	5.9	posted: april 5	lethal companies
+it's an amazing and funny experience :)	recommended	50	15.0	posted: april 5	lethal companies
+your balls will be tickled	recommended	39	26.6	posted: april 5	lethal companies
+if you like ♥♥♥♥♥♥ only	recommended	36	41.2	posted: april 5	lethal companies
+comedy	recommended	23	107.0	posted: april 5	lethal companies
+game is so much fun i have a blast playing with my friends every time	recommended	72	22.3	posted: april 5	lethal companies
+it have monstor	recommended	30	16.3	posted: april 5	lethal companies
+this is a very fun game to play with friends	recommended	52	26.1	posted: april 5	lethal companies
+i love it, being a wage slave is fun with friends	recommended	56	55.3	posted: april 5	lethal companies
+experience the thrill of multiplayer amazon, mixed in with the fear of the unknown, explore the vast cosmos and it's eldritch horror right in front of your eyes!discover the adrenaline of what makes one truly alive as you risk your life just to get by, get rich fast, or stay poor and fear the impending doom that lays ahead of you!1337/42	recommended	296	14.8	posted: april 5	lethal companies
+high impact sexual violence	recommended	41	151.1	posted: april 5	lethal companies
+update when	recommended	27	3.6	posted: april 5	lethal companies
+nobody will read this review so i'll just say it. this is a really good game. very fun. 200 stars :3	recommended	97	55.8	posted: april 5	lethal companies
+will change to positive when sex update	not recommended	50	6.3	posted: april 5	lethal companies
+most fun experience in a while. very fun with friends	recommended	61	3.9	posted: april 5	lethal companies
+me nu good employee, so boss showed me space :d	recommended	55	8.4	posted: april 5	lethal companies
+grown men screaming for mommy, so good!	recommended	50	34.1	posted: april 5	lethal companies
+product refundedno mic racism	not recommended	43	2.0	posted: april 5	lethal companies
+really fire with friends too	recommended	41	31.6	posted: april 5	lethal companies
+so there's an enemy in this game and they're basically normal dudes with masks but like we were new so from afar we thought he was just a teammate and as i turned around this guy is in my face spitting blood all over me and when i go to spectate i see my teammates running around like it's some looney tunes chase and everyone got eaten by the blind dogs except 1 guy so when the masked dude came over to him he caught up and grabbed him and the two got eaten by a big ass sandworm	recommended	400	20.8	posted: april 5	lethal companies
+funny	recommended	22	40.9	posted: april 5	lethal companies
+got my a## chased by a swarm of baboon hawks, 2 dogs and a giant and somehow lived. these are the moments i live for in this game. one of the few games that actually increases my heartrate. 10/10 f### those spike traps tho	recommended	196	78.9	posted: april 5	lethal companies
+está pro	recommended	24	9.3	posted: april 5	lethal companies
+best game for friends	recommended	35	52.5	posted: april 5	lethal companies
+best game on steam	recommended	32	13.4	posted: april 5	lethal companies
+this game is actually so fun! at first it was terrifying and it kind of still is but it needs more monsters.	recommended	104	19.1	posted: april 5	lethal companies
+.	recommended	18	5.1	posted: april 5	lethal companies
+uhhhhhh 5 butlers ganged up and mugged me	recommended	51	33.7	posted: april 5	lethal companies
+the new version 50 intro made me ♥♥♥♥ my pants harder then a 3am trip to taco bell	recommended	82	175.2	posted: april 5	lethal companies
+masterpiece	recommended	28	150.6	posted: april 5	lethal companies
+coool game	recommended	26	5.4	posted: april 5	lethal companies
+"lethal company: a searing indictment of western exploitation disguised as entertainmentat first glance, ""lethal company"" may seem like just another science fiction game, but upon closer examination, it reveals a disturbing truth about the insidious nature of western exploitation. the game's premise of scavenging for resources on distant planets for a mysterious company speaks volumes about the predatory practices of western corporations, which exploit vulnerable populations and ravage the environment in pursuit of profit.what sets ""lethal company"" apart is its unflinching portrayal of the human cost of such exploitation. as players navigate the treacherous landscapes of these distant planets, they are confronted with the grim reality of forced labor, environmental destruction, and systemic oppression perpetrated by the eponymous company. this stark depiction serves as a poignant reminder of the atrocities committed by western powers in their relentless quest for dominance.moreover, the game's narrative challenges players to question their own complicity in these injustices. by assuming the role of employees of the lethal company, players are forced to confront the moral implications of their actions, ultimately leading to a reckoning with the consequences of their choices. this powerful message resonates deeply with those of us who refuse to turn a blind eye to the suffering inflicted upon marginalized communities by western exploitation.in conclusion, ""lethal company"" stands as a damning indictment of western imperialism and corporate greed. its harrowing portrayal of human rights abuses serves as a wake-up call to those who would seek to profit at the expense of others. as chinese nationalists, we must stand in solidarity with all oppressed peoples and continue to expose the injustices perpetuated by western powers. only then can we truly achieve a world free from exploitation and oppression."	not recommended	1661	51.3	posted: april 5	lethal companies
+yipee	recommended	22	20.8	posted: april 5	lethal companies
+sigma game	recommended	26	44.1	posted: 5 april	lethal companies
+really fun, but 3 months since an update. devs running the valheim model of excessive success with a failure to execute anything in a timely manner thereafter. hope to be proven wrong!	not recommended	170	32.4	posted: 5 april	lethal companies
+good game but when sex update	recommended	41	52.1	posted: april 5	lethal companies
+lit	recommended	20	84.9	posted: april 5	lethal companies
+scary game	recommended	26	30.3	posted: 5 april	lethal companies
+it is amazing with friends and is so fun and enjoyable. highly recommend.	recommended	78	11.5	posted: april 5	lethal companies
+nice game	recommended	25	7.0	posted: april 5	lethal companies
+product refundedpretty boring	not recommended	44	0.5	posted: april 5	lethal companies
+very fun to play with family and friends alike! frustrating but fun all around, and dying is entertaining!	recommended	106	46.8	posted: april 5	lethal companies
+bracken is hot	recommended	29	63.3	posted: april 5	lethal companies
+super duper cool my friends murdered me though to reach the quota	recommended	71	54.3	posted: april 5	lethal companies
+yea	recommended	20	8.2	posted: april 5	lethal companies
+good	recommended	21	34.9	posted: april 5	lethal companies
+this company is amazing to work for. easy job picking up scrap. 10/10 you definitely won't get spaced.	recommended	102	17.8	posted: april 5	lethal companies
+si	recommended	19	22.8	posted: april 5	lethal companies
+fun game scary brr blow up funny haha dance with friends	recommended	63	28.6	posted: april 5	lethal companies
+it fun	recommended	22	31.6	posted: april 5	lethal companies
+all honesty, very good if you got a pc better than a lemon. (my pc is such lemon)	recommended	81	43.5	posted: april 5	lethal companies
+i have died more to the pit then to any thing else 10/10	recommended	61	12.9	posted: april 5	lethal companies
+troll ur friends with a mask :)	recommended	42	58.2	posted: april 5	lethal companies
+in my opinion this is the best multiplayer horror game for fun, it has alot of stuff. for me when i play multiplayer even tho i know evrything its still hella fun to se when people die, scream or just make jokes and playing the first three maps alone is very calming and fun in its own way, this is the game that made me relize that talking to people aint that bad :)love this game so fricking much	recommended	337	130.2	posted: april 5	lethal companies
+this game is great to play with friends, its a coop horror game and a new update (v50) is coming out soon	recommended	101	61.0	posted: april 5	lethal companies
+gud game, your team is either autistic, high af, or drunk af	recommended	66	2.4	posted: april 5	lethal companies
+damn they weren't lying, that company was lethal.	recommended	59	129.6	posted: april 5	lethal companies
+grew my penis in size by 4 inches and also got some ♥♥♥♥♥♥♥ finally	recommended	71	91.4	posted: april 5	lethal companies
+10/10we always go for the beehives,we always die,we always laugh.	recommended	73	11.5	posted: april 5	lethal companies
+jeb	recommended	20	21.0	posted: april 5	lethal companies
+fa paria	recommended	24	33.6	posted: april 5	lethal companies
+surely it can't be that lethal	recommended	42	10.6	posted: april 5	lethal companies
+yes	recommended	20	14.6	posted: april 5	lethal companies
+yippee	recommended	23	294.7	posted: april 5	lethal companies
+funny scary game. even more funnier and scarier with mods	recommended	65	20.3	posted: april 5	lethal companies
+very fun	recommended	24	4.6	posted: april 5	lethal companies
+this game makes me oiled up	recommended	39	16.9	posted: 5 april	lethal companies
+the slot machines go brrrr in the mods, and the giant robots go brrrr when chasing you while crying like a baby.	recommended	108	107.2	posted: april 5	lethal companies
+deez	recommended	21	15.3	posted: april 5	lethal companies
+good horror game that can be funny with friends and mods, or be more terrifying def get if you can and convince friends to as well	recommended	122	24.9	posted: april 5	lethal companies
+boobs	recommended	22	38.6	posted: april 5	lethal companies
+ballz	recommended	22	90.3	posted: april 5	palworld
+it's ok	recommended	23	98.0	posted: april 5	palworld
+good	recommended	21	252.7	posted: april 5	palworld
+ill play this game again when they add pokemon sex	recommended	58	7.0	posted: april 5	palworld
+nerfs killed the game	not recommended	35	219.1	posted: april 5	palworld
+absolutely in love with this game. i can't wait to see where it'll go from here!	recommended	82	19.5	posted: april 5	palworld
+it's honestly amazing, and i highly recommend anyone who loves a good action rpg game like pokemon: legends arceus	recommended	113	7.6	posted: april 5	palworld
+good, fun game	recommended	29	195.1	posted: april 5	palworld
+it's a pokemon reboot but with the action rpg battles we always wanted. online play would be better with a massive (or a few) official online servers that were stable/reliable. but otherwise, it's totally worth it!	recommended	196	190.8	posted: april 5	palworld
+great game	recommended	26	33.4	posted: april 5	palworld
+nice open world game with loads of creative creatures to capture and butcher.	recommended	82	27.4	posted: april 5	palworld
+fun game.	recommended	25	122.1	posted: 5 april	palworld
+..	recommended	19	14.6	posted: april 5	palworld
+pretty epic but the key chest and schematic rng is kinda bs. but i loved most of my gameplay aside from getting clapped by a gang of pals.	recommended	128	24.4	posted: april 5	palworld
+fun for collectors, hoarders, and poke fans. won't age well if there aren't more gameplay modes / events and a much larger collection of collectables. base building needs more upgrades for designer types.	recommended	189	79.7	posted: 5 april	palworld
+yes	recommended	20	25.0	posted: april 5	palworld
+123	recommended	20	47.7	posted: 5 april	palworld
+slavery simulator	recommended	33	56.3	posted: april 5	palworld
+slavery like the good oll days	recommended	42	40.6	posted: april 5	palworld
+it actually fun to play with frinds	recommended	46	12.5	posted: april 5	palworld
+both big updates wiped character progress from our dedicated server	not recommended	75	72.2	posted: april 5	palworld
+great game. pure fun	recommended	34	38.1	posted: april 5	palworld
+this game remind me old great britain times....(￣▽￣)	recommended	62	14.1	posted: april 5	palworld
+mindblowing game	recommended	32	5.1	posted: april 5	palworld
+idk	recommended	20	0.7	posted: april 5	palworld
+i love this game, and i spend many hours collecting new pals, building things and just over all petting my pals. i love the merge of tamagatchi and digimon mechanics with those of things like shin megami tensei.	recommended	191	55.3	posted: april 5	palworld
+its a fun game if you like survival	recommended	45	8.9	posted: april 5	palworld
+guns and slavery. exactly what i want.	recommended	49	5.9	posted: april 5	palworld
+really fun to acomplish many things	recommended	47	50.1	posted: april 5	palworld
+really gpopd	recommended	28	52.1	posted: april 5	palworld
+good but digtoise is stupid as ♥♥♥♥. he continues to work as his eyes are bloodshot yet theres a hot spring and food right next to him so i have to manually keep on putting him in tyhe hot spring untill hes at 100% sanity. also the game crasjes alot. please fix digtoise	recommended	235	64.0	posted: 5 april	palworld
+you can kidnap people :)	recommended	37	5.0	posted: 5 april	palworld
+love. it. so . much . fun	recommended	36	182.4	posted: april 5	palworld
+i truly cannot begin to explain the extensive fun there is to be had playing this game. the rumors are true! take pokemon, add a survival game like rust, the forest, arc, then allow the player to do whatever they want. overall, it is really well mixed. you need certain pals for tasks such as a fire type to smelt ore. there is multiplayer but such a large learning curve. i would recommend setting easy custom settings on a solo server before playing multiplayer.	recommended	398	26.2	posted: april 5	palworld
+have it for computer and xbox and we love it! xbox version is definitely more glitchy.	recommended	88	72.7	posted: april 5	palworld
+love this game! you can explore, build a base, catch pals, fight bosses, or just fool around with friends- it is so relaxing to play!	recommended	126	36.9	posted: 5 april	palworld
+good game	recommended	25	11.1	posted: april 5	palworld
+dumb game but super fun at the same time.	recommended	50	10.6	posted: april 5	palworld
+it is really an enjoyable game	recommended	42	261.1	posted: april 5	palworld
+:)	recommended	19	60.6	posted: april 5	palworld
+very fun and highly entertaining.	recommended	46	53.0	posted: april 5	palworld
+fun and interactive game	recommended	38	49.7	posted: 5 april	palworld
+the new player experience is good , even solo there is allot to do	recommended	70	79.9	posted: april 5	palworld
+this is the best game hand down for the money right now. it fits well with adults and kids.	recommended	90	794.0	posted: april 5	palworld
+pokemon but better	recommended	33	10.1	posted: 5 april	palworld
+i love this game and i got pc just to play it. it is everything you would want in a open world survival with monster helpers	recommended	116	63.4	posted: april 5	palworld
+i always wanted a pokemon type game on pc in palworld provide	recommended	67	37.0	posted: april 5	palworld
+poor performance! developers lazy as hell, they don't know what optimization is, they just know that civilization have a great technology	not recommended	134	18.5	posted: april 5	palworld
+this game is one of the best games ever	recommended	48	6.5	posted: april 5	palworld
+lack of missons/ i guess but other tan that its a very fun game	recommended	67	49.9	posted: april 5	palworld
+yeah, this game 100% deserves the love the comunity is giving. the first big patch just came after a couple of months, and let me tell you, this people do read comments and feedback, they just added or fixed like 70% of the features the comunity requetsed and wanted. this game is worth every single penny!	recommended	268	74.0	posted: april 5	palworld
+absolutely love this game, very good alternative to pokemon and ark and many game like that. very fun, cute critters and i love the building in it too. great game	recommended	150	9.4	posted: april 5	palworld
+i love this game so much its so fun 1000000000% recommend	recommended	64	61.9	posted: april 5	palworld
+we need palworld: more than just pals	recommended	48	17.4	posted: april 5	palworld
+i like this game a lot, execpt for one thing. i’m not a big fan of the goal. sure, the end goal is fun, but i’d say add some side quests or something extra onto it, then it’s better. other than that, i like it.	recommended	183	7.4	posted: april 5	palworld
+ط	recommended	18	76.4	posted: april 5	palworld
+o	recommended	18	85.9	posted: april 5	palworld
+no need review for this game. just play it and see it yourself.	recommended	68	26.8	posted: april 5	palworld
+good game	recommended	25	31.8	posted: april 5	palworld
+slavery	recommended	24	37.3	posted: april 5	palworld
+pet, tame, befriend and if they don't enslave and massacre!	recommended	67	55.3	posted: april 5	palworld
+"i should start by saying i had never really played a survival-type game until palworld. they always seemed so out of my skill range and so daunting. i saw the first public videos of palworld in its old engine and thought, ""ha guns and little mon's interesting."" honestly, i didn't think it would even make it to early access. well, look at me, so i was proved wrong. it launched in a new graphic style and with a lot of visual improvements and big upgrades. i started and started solo and was instantly hooked. the game walks you through the learning process in such a nice elegant way. i never felt like anything was impossible or out of my reach if i didn't just put some effort into it. i have almost 500 days on my server and 300hrs. i've purchased several more survival games from other indie companies and re fallen in love with video games."	recommended	708	309.1	posted: april 5	palworld
+i don't have anything to say. i like it, and i hope you will too. if not, hey, there are other games out there.	recommended	105	5.7	posted: april 5	palworld
+very beautiful game and very grinding	recommended	49	46.4	posted: april 5	palworld
+pokemon meets valheim... sorta	recommended	44	49.6	posted: april 5	palworld
+j	recommended	18	97.3	posted: april 5	palworld
+i absolutely love palworld! this game is so funny and entertaining, i highly recommend it to anyone looking for a good time. i can't wait to see what new content they come out with in the future, i will definitely be coming back for more after some updates. give it a try, you won't regret it!	recommended	255	221.0	posted: april 5	palworld
+w mechanics w graphics w game	recommended	41	121.8	posted: april 5	palworld
+forced labor but okay	recommended	35	57.6	posted: april 5	palworld
+i like the pals and the base building	recommended	47	58.6	posted: april 5	palworld
+game crashes every time i try to run it. this started at update 0.2.0.6	not recommended	75	207.6	posted: april 5	palworld
+gun pokemon	recommended	27	130.1	posted: april 5	palworld
+ark but with pokemon	recommended	34	14.7	posted: april 5	palworld
+its fun time goes quick	recommended	36	195.5	posted: april 5	palworld
+xdfgfghgfn	recommended	27	116.1	posted: april 5	palworld
+my pokemon tried to sleep with me??????????????	recommended	58	37.9	posted: april 5	palworld
+committed crimes against humanity	recommended	47	27.3	posted: april 5	palworld
+overwhelmingly positive, its so funny (starfield is st*pid)	recommended	69	212.3	posted: april 5	palworld
+not good	not recommended	24	26.5	posted: april 5	palworld
+pokemon with guns	recommended	32	69.4	posted: april 5	palworld
+i like	recommended	22	76.1	posted: april 5	palworld
+people keep saying this game is literally pokemon with slavery. but i never see my pals as slaves.i see them as dirt, i see them as below me, in fact i dont even see them sometimes. i forget they even serve me. i feed them their deceased brethren, make sure they never are sane enough to realize how horrible their lives are.i dont blink an eye if any disappear from my base, i can capture another.i really love this game.	recommended	360	25.9	posted: april 5	palworld
+i love this game but it will never open now this is a just a waste of money do not buy	not recommended	83	37.9	posted: april 5	palworld
+best combin of pokemons and making them do slavery for free and shooting them with guns	recommended	89	4.9	posted: april 5	palworld
+これは本当に楽しいですよー	recommended	30	46.6	posted: april 5	palworld
+fun all around, everything the game it closely resembles should have been, and then some. trying to get a few people to play it, but i'll be sticking around on this one for as long as they keep it going.	recommended	181	210.4	posted: april 5	palworld
+creative mode plssssssssssssssssss	recommended	49	13.2	posted: april 5	palworld
+so fun oh my geeeeee:3333333	recommended	41	104.7	posted: april 5	palworld
+very good, only a little similar to pokemon... but not a lot. ;d 10/10	recommended	74	34.5	posted: april 5	palworld
+fun	recommended	20	25.2	posted: april 5	palworld
+it is really good considering i have always loved pokemon you should definately try it	recommended	89	10.0	posted: april 5	palworld
+good game over all	recommended	32	85.2	posted: april 5	palworld
+sooo gooood	recommended	27	32.1	posted: april 5	palworld
+this is the most fun i have had with a survival game in a long time. can't wait for the new area this summer.	recommended	103	88.3	posted: april 5	palworld
+this is a better game in early access than a lot of games are after a full release and a few years of continued development. given how good it is, now, i can't wait to see how much better it'll be even by the end of the year!	recommended	195	334.1	posted: april 5	palworld
+very good game	recommended	29	42.5	posted: april 5	palworld
+a pal touched me and im sure how i feel about it	recommended	54	90.0	posted: april 5	palworld
+needs a lot of optimizing still, but holy beaver damn! if this isn’t the best monster catcher i’ve played to date(sorry pokeman’s but you don’t try hard enough)you can ride your creatures around and it’s pretty big. looting, storing, and crafting stuff keeps me busy just enough that it’s a great grind!	recommended	269	26.5	posted: april 5	palworld
+great game. mow your enemies down and butcher your pals for fun	recommended	69	10.2	posted: april 5	palworld
+it's cool	recommended	25	116.0	posted: april 5	palworld
+good game	recommended	25	8.3	posted: april 5	palworld
+very interesting game	recommended	36	31.3	posted: april 5	palworld
+its pokemon with guns where you can make sweatshops whats not to like	recommended	74	47.1	posted: april 5	palworld
+most of my first 80 hours were played in one 3 day weekend. i had to quit cold turkey for a while to regain my sanity....i now breath and sleep this game!	recommended	140	97.0	posted: april 5	palworld
+i love this game. i love how the devs are funny and they actually listen to player feedback and comments. i hope they never change and keep doing what they're doing because it's fun and i can't wait for more content and new pals <3	recommended	204	156.0	posted: april 5	palworld
+i love it when my sl- i mean pals hold guns and do all the work for me :) 10/10.1 amazing game	recommended	90	4.9	posted: april 5	palworld
+peaskkkk	recommended	25	5.0	posted: april 5	palworld
+honestly looking at the game i would have never bought it myself, however after testing with friends it is alot of fun and well worth the money.	recommended	135	103.2	posted: april 5	palworld
+new update ruined all the time i invested in my base that was in the first castle with now new terrain that has engulfed all my important stuff and i can't get it. and now if i quit the game from a glitched spot that has me stuck i no longer load in to my main base no now i load in stuck still in the spot i was last before leaving game and i cant kill my character and get his loot cause the loot bag would be stuck in a place i cant get to like wtf the game was fine for me just 24 hours ago logged on and now i am screwed i hope this gets fixed in the future so i have a reason to play again. gg	not recommended	484	137.3	posted: april 5	palworld
+buggy as all hell...but fun and better than that other game.	recommended	67	108.8	posted: april 5	palworld
+i really had an amazing time playing this game with my friend wob, he even made a home for me to live in, in real life... i don't even have a bed, but in this game i do! <3	recommended	151	16.2	posted: april 5	palworld
+yup	recommended	20	5.5	posted: april 5	palworld
+awesome game love it and i've never been big into pokemon but love this	recommended	75	109.0	posted: april 5	palworld
+i have had so much fun building my enslaved work force and watching my rise to power flourish!!!!!!!	recommended	100	99.5	posted: april 5	palworld
+fun	recommended	20	35.6	posted: april 5	palworld
+there is potential here.a lot of it.but at the time of writing there is nothing to do with the mechanics in place. defeating bosses, catching pals and building up a base only goes so far without a reason to do it.i would love to see a proggressive story, a better map and the likes.	recommended	246	39.9	posted: april 5	palworld
+it's worlds of fun!	recommended	33	129.5	posted: april 5	palworld
+why grind by yourself when you can make your pal slaves grind for you? :-)	recommended	77	69.9	posted: april 5	palworld
+game	recommended	21	47.9	posted: april 5	palworld
+i like	recommended	22	25.8	posted: 5 april	palworld
+good game	recommended	25	71.1	posted: april 5	palworld
+great	recommended	22	17.3	posted: april 5	palworld
+its an amazing game that takes amazing elements from other games and combines it into one i personally find an incredible amount of pleasure playing this open world game as it leaves so much to explore no matter how far you think you are in the game its also a multiplayer game making it really fun to play with your friends i rate this game a 9/10 as occasionally there might be some bugs but its to be expected look at pokemon sv after all.	recommended	375	131.8	posted: april 5	palworld
+"great game nice to see it gets updated.though the content right now is really limited.i love the game play loop of just discovering the world, once you get your base up and running.i love survival games, i never really played monster capture games that much.but it was nice to see how they incorporated these 2 genre pretty well.there's are still some bugs here and there but it's still in early access, they do fix it and send an update patch whenever they see a bug that is not an intended feature.problem with the game right now in early access is that the world right now is kind of empty.yes there are dungeons to beat, towers to defeat, and pal bosses to capture or fight.but the map is too big and there's so little things going on on the map.suggestions:""content for discovery""the villages and towns don't have anything going on in them.i suggest to come up with a dev team writers that will flesh out a story on every town/region or factions with town people or characters giving you quests. like capture specific pals for trade and you get rewarded with key items. or given access to a dungeon or a certain area. maybe an underground city or some floating islands, or the terrain change if you fight and defeat certain pal boss.like what if one of the giant skeletons lying around get's revived (by pgru) and when defeated turns out it was covering dungeon underneath it. then we would explore that underwater dungeon and it's all water themed pals in it.or what if free pal alliance angered a giant pal that caused the forests to over grow, and changed the landscape of a certain region. where then the pals in these forest became stronger and much faster.or have the brothers of the eternal pyre accidentally summon or disturbed a giant pal that was sleeping in the volcano upon waking up it caused the volcano to erupt that also changed the landscape, like the lava levels rising and maybe causing certain areas to move unlocking cave caverns.there's also a possibility of a giant pal coming out of the ground in the dessert and changing the landscape having caves underneath to explore.there's so many possibilities.there's also different factions and option to add certain factions like people who are fighting against free pal alliance, they could be living on tree houses,opposite of brothers of the eternal pyre. people who just like to surf or swim with their pals.or the total opposite of free pal alliance who uses the pals for mining in caves.there's some ruins here and there, make some random events on certain locations to make it interesting. make up some lore like there would be a ghost related pal that visits one of the church in certain nights or like in full moon.i really wish they flesh out the story more, it doesn't have to be voice acted or good animated cut scenes.have some weather or celestial cycles that affects certain pals.i.e.rain would make fire pals weak and water pals much stronger.full moon would make dark pals restless and much powerful.make the swamp or certain areas misty.""quality of life""i like how there's a lot of quality of life features that makes the game more accessible.> have the option so that a server can have at least 1 person sleeping and it skips the night.though i wondered if they should add a building for gathering items or hunting materials. you would assign pals that would go hunt/gather the assigned materials and each pals would have specific materials they can hunt or gather. they wouldn't need to be animated or anything just a slot in the menu of some sort.this way there's other ways to farm items, instead of having a ranch with all your pals that could cause lags you would have pals that are just assigned to gather those materials overtime and depending on their gathering level or stats they can get as many as those item or not. this also makes use of those powerful pals we have but can't be in the party or bases."	recommended	3237	55.3	posted: april 5	palworld
+it was great eith friemds wish there was more stuff to do	recommended	63	121.9	posted: april 5	palworld
+it would have been the perfect catch'em'type game if not for all the crashes and data loss.... i'll be playing for an hour or so and it'll crash out of nowhere and i'll lose that entire hour or so i've been playing, all the pets gone, all the base work gone... as if i wasn't even playing the past hour... its getting to the point of why bother at all untill its fixed, i'm not too fond of wasting time on a game just to have it self erase.... it would have been my top game if not for the crashing.. guess it's back to my other games till its playable on steam deck. in all honesty i can't reccomend the game the way its erases data when crashing. normal crash i can deal with but erasing the past hour is ridiculous.	not recommended	594	99.1	posted: april 5	palworld
+this game has just been amazing.	recommended	44	68.1	posted: april 5	palworld
+10/10	recommended	22	82.6	posted: april 5	palworld
+this game has a whole lot of potential and im all for it. im having alot of fun and the only thing i wanna see in the game now is a sort of reputation system. like you are able to join different factions and the bosses can be people you can talk to and do things for, making them more involved and enhance the game. kind of like how fallout new vegas did it. but of course that is just a want of mine and im down for any updates that come to the game. i cannot wait to see how this game continues.	recommended	411	21.1	posted: april 5	palworld
+its nice	recommended	24	51.5	posted: april 5	palworld
+as a pokemon fan i can safely say this is nothing like pokemon.pokemon fans are just high on something.	recommended	102	17.1	posted: april 5	palworld
+vfdgjwgtb2 erg g45y5eu5	recommended	38	21.1	posted: april 5	palworld
+great game. affordable price. attentive devs. 9/10	recommended	61	210.6	posted: april 5	palworld
+better than pokemon	recommended	34	94.9	posted: april 5	palworld
+yippee	recommended	23	45.9	posted: april 5	palworld
+this game is a lot more fun than i thought it would be. if you like the following games i wold recommend this game: pokemon legends arcus, botw totk, eldenring	recommended	147	18.4	posted: april 5	palworld
+nfgadcmhzgdsifvghgtdscjydsgc goooood	recommended	52	176.3	posted: april 5	palworld
+this game is pretty goated i dunno what else to say	recommended	58	11.0	posted: april 5	palworld
+ok	recommended	19	64.7	posted: april 5	palworld
+the recent update is completely a disaster for single player.freaking op boss...hate it so much	not recommended	98	119.6	posted: april 5	palworld
+one of the best made, most fun, early release games i've ever played. i haven't played a game 14 hours straight since bo3. love this game and still grinding to level 50.	recommended	155	45.6	posted: april 5	palworld
+still some bugs here n there but very fun over all... would 100% recommend	recommended	78	124.3	posted: april 5	palworld
+been pretty fun so far	recommended	35	12.5	posted: april 5	palworld
+there's no laws against the poke'mon batman.	recommended	55	60.0	posted: april 5	palworld
+good game	recommended	25	43.7	posted: april 5	palworld
+making my own slave camp	recommended	37	84.4	posted: april 5	palworld
+pokemon meets minecraft, i have lost hours and hours playing this game. it's addicting and something you can get lost in with friends and family.	recommended	138	13.7	posted: april 5	palworld
+it is a huge game with so much to do, whether you like gathering, collecting, exploring, base building, or training with your pals. devs come out with frequent, substantial updates and seem to listen to exactly what the players want, adding in features and improvements that are highly requested. give the game a try.	recommended	281	71.1	posted: april 5	palworld
+good game	recommended	25	17.8	posted: 5 april	palworld
+good guns and the pals are good. lots of fun bugs go on top the capule and you go flying breed eggs get guns make a home guns pals and bosses to. recommend...	recommended	143	26.5	posted: april 5	palworld
+"30h on steam (currently), and almost 190h on xbox, pretty gud game ngl, even after the seamless update (which to all people going ""better without seamless"", there's an option to return to legacy in the beta options of the game)"	recommended	205	63.7	posted: february 9	craftopia
+craftopia is an amazing, beautiful, open world survival-craft, rpg experience. it wonderfully blends various features and aspects from different games, to create what i can only describe as the ultimate survival craft game.it features nearly everything you could want in a survival-craft game: from fishing, to gathering, mining, farming, and of course, crafting, but has more expansive features and things you probably wouldn't expect from the typical survival game. there are automation systems, there are hoverboards, motorcycles, planes and tanks. there are a variety of skill trees, from weapon mastery and gathering, to magic. there are repeatable dungeons that can be farmed for loot drops like an mmo, there are a variety of monsters and animals to catch and tame, complete with a skill training system...etc.i could go on and on. this game is a beautiful experience, one filled with discovery and exploration. the world is vast and open and you can do virtually everything and anything you desire. you can build and craft nearly anywhere and there is a wealth of content to do, from questing to dungeons and crafting. every new region you discover and every new item you craft or unlock brings a sense of whimsy and wonder with it.i highly recommend this game.	recommended	1080	35.0	posted: february 19	craftopia
+gud	recommended	20	22.7	posted: march 25	craftopia
+this game is still early access. there is quite of content in game considering it's development stage,the game is not optimsed. i play on an high end rig, which most people don't. i have had a few glitches and discovered a really annoying bug, where trying to place work benches down or other benches, it just wouldn't work.it is quite enjoyable and graphics are very beautiful. many of the quests make absolutely no sense, simply because there is no real in game tutorial and what their is woefully under done. if your thinking of buying and playing this, this game is still in developed. fixing bugs such the one i mentioned that after a while you can' see to place any thing, which does break the game in the sense that without the crafting tables you've made, you get to a play point in the game where it just stops you from placing anything on the ground.the main thing is the development team have split in half so they do this game and another relatively well known game. i have no interest in advertising their other game but its very easy to find, that is all i m going to say about that.the game play really doesn't play, since it has some major functions that the game is still lacking. bare in mind i am referring to single player mode only. i imagine the devs would have more incentive to a number of problems, they maybe did't think would be a problem or it could be fixed quickly, well it hasn't so far.right now, i would wait for the game to get it's main stuff put in to the game, for example the rest of the towers. the vehicles in this game don't work too well, very little thought went to drive able or flyable. driving is just a dreadful experience at the moment. kite flying is quite smooth, no problems with it.let me just partially list some of the bad things, its not exhaustive but i don't to be here all night either writing a review on a game that still feels like it is still in late alpha build, as for beta, despite the size of the game right now, it's meaningless when there is no game manual that tells you how to use some of the stuff and how to play the game.needs some things to be adjusted.graphics are beautiful, the game play smoothly for me, apart from the annoying bugs that forced me to stop playing. i played 3 hours, and thoroughly enjoyed every minute of it.cons - no voice acting, no npc helping you fight monsters (at least in genshin impact had multiple characters you use anyone time.) the npc's really need to be livened up somewhat. they don't seem to communicate with each other, or start up random conversations. for me npc interaction with each other is vital because it stops the world becoming bore fest. it would also be nice if we could befriend and npc, so we can go monster killing, item collecting etc. it wouldn't matter in multiplayer, but in single player, without interaction the game world feels utterly dead. hence other developers have had to learn the long way however that isn't the word i was shooting for.a full written guide is absolutely needed. i am sure all the bugs will be fixed in time. but the biggest bug that stopped me playing, was suddenly unable to place any type of workbench etc on the ground. then is the badly janky driving, either airplanes, bikes or cars. however that jankiness is just terrible. i want a smooth drive, without having to auto crash into walls..it's also got another bug, where when you get off your motorbike which is where we immediately get to work, laif your on the fence about buying this game. wait for it on steam sale. there are other legal online sellers for selling the keys.	not recommended	2951	3.3	posted: march 6	craftopia
+hmm , i don't like it at all !nothing better then palworld	not recommended	64	0.9	posted: march 3	craftopia
+i loved the original craftopia, however the seamless world update completely changed the game. honestly, it looks and runs horrible now. the character creation is terrible and for some reason there is a dumb character outline glow. the movement and look just feels gross. i'm sad they ruined a fun little game and turns it into this.	not recommended	294	79.9	posted: 3 april	craftopia
+finish your game please.kept coming back for updates to continue to find little to no direction.obviously used this title to test mechanics to flesh out your new game, palworld.	not recommended	166	10.8	posted: january 31	craftopia
+i've been playing this game for years < 3i love craftopia so ♥♥♥♥♥♥ much < 3	recommended	78	57.9	posted: february 12	craftopia
+this game has been abandoned by its makers in favour for their other game. palworld. and thanks to this games success craftopia will never be finished... what a shame. because its the spiritual predecessor of palworld. everything is here already.	not recommended	224	14.0	posted: january 27	craftopia
+scammed	not recommended	24	1.3	posted: february 6	craftopia
+janky but fun	recommended	28	69.0	posted: february 22	craftopia
+1. beautiful graphics and art style2. lots of skills to master and upgrade3. relaxing or gripping depending on which style you prefer4. dedicated devs5. how has nintendo not sued yet?anyways, love this game!	recommended	192	14.6	posted: march 20	craftopia
+welp. dont support this company ever again	not recommended	53	32.4	posted: february 11	craftopia
+crazy jank! super glitchy movement, invisible walls all over the place (some which you hilariously can climb), not well optimized at all, shadows flicker to the extreme and you can see through terrain depending on camera orientation. plus the story is outrageously bad! this was not at all what i expected, this feels like a very unfinished early alpha.	not recommended	312	0.3	posted: 3 april	craftopia
+why buy this game if you can afford palworld?	not recommended	54	124.4	posted: march 15	craftopia
+thoroughly enjoy the game now; as i did when i first bought it 2 years ago. granted some aspects of the game are still being worked on, but that's neither here nor there. great job on developing craftopia to what it is now, i can't wait to see what the future has in store.	recommended	237	135.4	posted: march 14	craftopia
+allot of work has gone into this game...but its still not ready to sink time intoas with many other players i fear palworld's success will take away yet even more effort from completing this game...however it is clear that their goal is to progress this game further. i don't want to spend allot of time in this game as its not ready yet and has not been for a long time.however if the game keeps on the path it has it will be worth having waited.i bought this early primarily to support the developers.i have recently spent 40 min in the game and can see that allot has changed from the previous time i played it.keep up the good work.	recommended	534	1.0	posted: january 29	craftopia
+let your imagination go free and create, fun game	recommended	58	8.1	posted: march 5	craftopia
+winter had swept in, and as the festivities died down after the holidays ended and the new year began, the town had grown quiet, as it usually does. men and women and children bundled up inside their homes with the heaters on and loved ones snuggled up in their blankets- and then there was me, staring up at the ceiling, wishing summer would come back.i was an adult now. i had taxes to file, jobs to do, classes to attend. it all felt almost underwhelming in a way, like barely anything changed at all.i wanted to relive some of those memories i had. i wanted to play back through those games that changed my life. i wanted to relive what it was like to play through them for the first time again. but that was impossible. breath of the wild was my favorite game of all time, and even with that, i'd played tears of the kingdom the previous year and botw too many times to count. i was so bored. all i did was laze around in bed and talk to friends and talk about how we've gotta find something new to do and yet not wanting to do anything new. because what i really wanted wasn't something new, i wanted something old.this game ♥♥♥♥♥♥♥ sucks. i mean it's buggy, runs horribly, is hilariously incomplete, and the systems are all just a bunch of assets and game mechanics stolen from other games and dumped together with no thought whatsoever. i mean when i say buggy it's an understatement too, half the bosses don't even drop what they're supposed to, there are certain areas that just don't even have bosses that clearly are supposed to have them, one time i was fighting a boss and i got to half health, then to dodge one of his attacks i flew up and apparently i got too far from the boss so it just reset to max health??still had fun though. wait for a sale and play with friends.	not recommended	1468	10.2	posted: 2 april	craftopia
+katana goes whoosh!!	recommended	35	7.4	posted: february 10	craftopia
+ok, i am actually going to change my review completely, leaving the bottom part because it is still funny.there is a metaphor regularly used known as the ship of theseus. the story boils down to determining whether or not an object can still be regarded as the original object as it was at creation when time goes on and the parts of the object are replaced. this game is like if many popular games decided to have their parts taken out in exchange for other mechanics/concepts, then this game took those mechanics and built a new ship out of them. much of this ship comes from the game the legend of zelda breathe of the wild, but there are some similar themes from other games. the obvious parts that feel directly taken are things like the stamina meter, which works extremely similarly to botw, and the paraglider mechanics. ironically, this game has directly had many ship of theseus moments, especially with the island to seamless map change. and this where i can directly trace a similar concept taken from a different game to craftopia: certain environments. there is a large area that was implemented with the seamless world that is not necessarily stolen, but seems rather heavily inspired by elden ring; the area is a huge castle with a huge golden tree in the middle. additionally, if you thought that palworld copied pokemon, i regret to inform you that this game was the original game where pocketpair copied the creature capturing game. while it is not a stolen concept to have the player be able to capture creatures and let them do your bidding, this game's implementation of the mechanic does mirror pokemon quite a bit, with the player having to damage the enemies then capture them with a pokeball-like item. again, i am not trying to say that this game is directly copying other games. much of this is just inspiration: the inside of the elden ring-like fortress is unlike the actual elden ring capital city, some of the creatures in this game cannot be captured without utilizing certain items, and even the botw parts can be seen as different because of the inclusion of an upgradeable mana bar. i am just pointing out that this game is a smorgasbord of other games that needs to be polished more in all those aspects. i hope that the item descriptions become more descriptive, the game performance becomes more optimized, and the enemy diversity becomes more wild (so that i can capture them because even the most bare bones pokemon concept beats out real pokemon).tl:dr: this game really takes from a heap of other games, not just breathe of the wild, but i hope it still grows.edit: if you like shiny achievements, almost every achievement in this game is rare since achievements were added later, meaning that players who get them now will be in the rare percentile that actually returned/just got the game	recommended	2358	59.0	posted: january 30	craftopia
+so far it's pretty fun, pretty relaxed so far, lots of crafting, combat, quests etc.i'll see how i like it when the game goes on but i enjoy it	recommended	132	7.9	posted: january 29	craftopia
+product refundedjust, no.	not recommended	40	0.6	posted: january 29	craftopia
+you can have fun playing it, but there is a lot of flaws with the game. it's very easy to exploit, and things feel just throw out all over the place. i got this because of palworld.	not recommended	162	16.6	posted: march 17	craftopia
+money grab for other projects of this studio. won't buy any early access from them ever again.	not recommended	95	52.7	posted: january 24	craftopia
+i like it, wish there were more mods	recommended	46	58.1	posted: march 25	craftopia
+are they going to finish the game? i mean... they launched palworld... is this worth it?(if devs respond i will delete my review, whether i like the response or not)	not recommended	153	8.5	posted: february 8	craftopia
+play a lot	recommended	25	69.2	posted: february 1	craftopia
+genuinely a really fun survival craft game that stands out on its own from palworldfeel's like if breath of the wild was a full on survival game with machines and automationhope the devs keep the craftopia update's going even after palworld's success since both games stand very well on their own regardless of the similarities	recommended	290	50.0	posted: january 28	craftopia
+fun	recommended	20	12.1	posted: 1 april	craftopia
+hidden gem	recommended	26	24.4	posted: february 7	craftopia
+i love the references and mechanics from other games. buggy at time of writing, but lovely for what it is, a small team's personal project.	recommended	132	73.7	posted: 3 april	craftopia
+haven't played for 4 years and id like to point out this game is such a cash grab it might as well be named so, and on a side note all the reviews marked as irrelevant are bad reviews or reviews that are to honest for the dev to handle, 10/10 go ♥♥♥♥ yourself pocketpair	not recommended	233	17.0	posted: march 20	craftopia
+palworld inspiration : can also kidn*p npc good game :) /100	recommended	67	21.5	posted: february 4	craftopia
+⭐⭐⭐⭐	recommended	21	30.4	posted: march 24	craftopia
+purchasing an early access game on steam is promise that they will finish it and fix it later. we give developers money for the unfinished version to support them as they finish it. not make another game and ask us to pay for that too.	not recommended	208	22.2	posted: january 27	craftopia
+awesome game so far. just needs some tlc with the building aspect looking forward to future updates.	recommended	101	6.8	posted: february 6	craftopia
+pretty fun	recommended	26	27.5	posted: february 13	craftopia
+the game has been in early access for a while now and seems to be in a very alpha state still. a lot of things are missing, broken, buggy, and quite frankly the game is a mess. there is fun to be had but a lot of jank as well. right now i would give this a hard pass as it is not worth your gaming dollar and there are other games to play or spend the money on. also, at the current rate of development the game might never be finished or be left in a broken buggy mess of a state as it is now.	not recommended	405	43.5	posted: february 15	craftopia
+"""this item may bring you despair. even though this beautiful world is filled with all kinds of possibilities, buttered toast always lands buttered side down; it rains after you wash your car; the more you want, the less chance you acquire splendid loots from a loot box. of course you won't realize you have no paper before its to late."" is the description for toilet paper amen."	recommended	330	20.3	posted: 30 march	craftopia
+hey i funded palworld	recommended	35	5.5	posted: february 7	craftopia
+in my opinion, does not deserve the review bombing that its getting due to the release of palworld.people don't seem to understand that the dev team is split and that they are proving that this won't be abandoned. its also very clear what they are going for. palworld is pokemon arceus, this is botw complete with challenge shrines/korok seed challenges, puzzle caves and towers that you unlock through crafting to fast travel from. palworld is also much more early access than this. this has much more content, less dead map, and overall a bit more to it. you also have robots that basically do the animals job. the game is also relatively relaxing whilst allowing for semi complex, logic based automation with conveyor belts and/or mass farming, which, i'm a sucker for actual automation and conveyor belts.it's admittedly a little clunkier than pw from what i've seen but it's not a huge fallback. world feels well crafted, there are caves, puzzles, a huge array of animals, bosses, vehicles, weapons, armour and i enjoy the aspect of 'recreating earth', eventually finding villages that have electricity etc, very cool. and eventually the supposed ability to tame a literal god, though i personally haven't done this yet, just heard through the grapevine.overall, the success of pw makes me hope that this gives them even more resources to make both games great in their own unique ways. i've seen a vast improvement to craftopia over the years and i'm very much enjoying where its at at the moment. one thing people are also missing is that pw wasn't developed over night, they have proven they are capable on working on both projects by working on both projects in tandem. it also has a very public, promising roadmap that i suggest checking out if you are concerned and the updates are generally plentiful and overall fun.	recommended	1536	20.3	posted: january 31	craftopia
+multiplayer monster catcher survival game version of zelda!!!!	recommended	72	55.5	posted: march 10	craftopia
+ahh performance tank while cranking up global illumination fx and the fps goes from 100 into 15 fps. optimize your game asap.	recommended	121	3.4	posted: february 20	craftopia
+bought this game to setup a dedicated server for family and spent most of the 8 hrs troubleshooting why the heck the npc's are lagging no matter how much resources i gave the server.	not recommended	166	23.7	posted: march 15	craftopia
+i continue to enjoy it.	recommended	36	233.4	posted: march 2	craftopia
+really good game	recommended	31	62.8	posted: march 16	craftopia
+better than palworld.	recommended	36	62.0	posted: february 17	craftopia
+the translations are comedy gold. guess they couldn't find one person that speaks english. here is a selection of fish:giant trevally - is exactly exile who like to taste alone swim there as lonely at large. sessha the giant trevally. the bamboo basket is flowing.blue turtle - is a turtle to live longer a huge, is a valuable meat eaten by the sea. eggs gave birth in tears also be eaten.shrimp - some large varieties to eat to capture the tiger called black tiger.koi fish - greed in consuming eat everything, but easy to the minute fishing. gory need people time to eat for.the developer put out a statement today to reassure gamers that the success of palworld won't take away from the development of craftopia as they are developed by separate teams.let me translate the above: don't worry, the developers that actually know what they are doing won't touch this game. it will stay with the same team that sat on this bugfest for years.in terms of updates, the seamless update (which took 2 years to release) gutted most of the content. the seamless update released 9 months ago. the update this week finally restored the last evolution age that was gutted by the seamless update and existed 3 years ago.i'm rating this up, because i had fun messing around in coop. however, the game is still full of bugs and has a terrible performance. the moment you set up any automation, the fps tanks. i ended up watching a slide show again today when my fps fell to 9 on my rtx 3080 at 1440p.	recommended	1237	221.4	posted: march 16	craftopia
+"it's a great game!there is so much to unlock and explore.many parts of this game remind me of zelda to be honest...i really like how the game is made!you can also use many vroid models to play (it's kinda buggy in multiplayer tho).but i also miss the experimental start island...with the limited resources and tutorials.the old dungeons, how they looked and worked.and what got a big change... the portal.it's now open world...i liked the idea of a portal, needing resources to unlock more ""islands""/worlds.each one with different biomes, resources and mobs!great game. still loving it."	recommended	509	87.6	posted: march 1	craftopia
+the devs / pubs are the ones who made palworlds. they never finished this game, so them leaving this, makes me believe they won't finish palworlds in the future either.	not recommended	156	0.6	posted: february 13	craftopia
+i've popped in here and there for years watching this game grow and improve. it got a massive update at the end of last year and has consistently patched out the issues that arose from it and continues to be supported. it's honestly pretty funny to see people review bomb this game as abandoned suddenly. these are clearly people who only learned of craftopia due to palworld and have not been here playing the game. because those of us who have been here watching this game grow knew of palworld because of craftopia and palworld has been really publicly in development for years. yet people only review bombed now.that tells you all you need to know. it's just palworld haters who can't get any traction review bombing palworld so they came here to bomb this instead. it's kinda sad really.	recommended	670	73.8	posted: february 7	craftopia
+it only took 5 minutes of playing this game to realise that this was going to be the least fun experience i have had in years.	not recommended	118	0.3	posted: march 18	craftopia
+craftopia, in its current state, is a little rough around the edges - but that's to be expected from an early access title. barring some hilarious translations, the game is absolutely playable - and the amount of content that it contains is more than enough to keep you occupied for forty or so hours, even if you don't replay any of it. the terrain and building systems could use some work, but overall, the combat is fun and well-balanced, especially if you choose an appropriate difficulty. having played both before and after the seamless world update, i feel like the game is on a good trajectory: it may be turning into something of a zelda clone, but there's nothing inherently wrong with that. clones are how we develop genres.	recommended	624	49.0	posted: february 2	craftopia
+this game is that hot mess ex you keep going back to because despite being a hot mess they are working on themselves and you find that endearing.but it's also super abusive when it drinks.	recommended	171	3.7	posted: february 10	craftopia
+i do not understand how this is mostly positive. its buggy, performs poorly and has been in early access for years. i picked this up when it first became available on steam and its some how gotten worse over time. they've copied more from botw for no reason like the starting area being a platue, the musical jingles and a lot of enemies are heavily based in botw enemies the most obvious being the 'goblins' which are clearly bokolins.game needs some seriously tlc and at this point im not sure it can walk back all the botw 'inspiration' enough to make the game its own thing.the game also just runs very poorly with frame drops, getting stuck on terrain, game crashes and enemies/creatures clearly moving at lower frames then everything else.	not recommended	632	7.0	posted: march 18	craftopia
+decent game, has some bugs and can run rough on your pc if you make huge assembly lines. its a decent game with monthly updates to improve on it. i purchased it prior to palworld and felt i should review it since palworld players are coming into it with incorrect assumptions. i'd recommend it if you like like a mix of everything but mainly any factory/automation games with ok fighting and collectibles.	recommended	351	53.8	posted: february 8	craftopia
+"came back after a long break to see they did a ""seamless"" update, which seemingly totally rebuilt the game from the ground up as an open world game, instead of teleporting between islands on an archipelago. some might see this is a great positive for a game in development. ""clearly they must have done this to fix many issues, and improve the game!"" unfortunately, the reality of it is that they wasted large amounts of development time making the game different than when i bought it (and not in the more content way), made the game run considerably worse, removed vast swaths of content, reimplemented existing content but made it worse, no building things like floors and farming plots without snapping (sorry if you picked up a plot in the starting area and want to place it in its original spot, or build in certain cool places. no free placement for you, only snapped to a grid, and only able to turn things 45 degrees), hitboxes are so bad that it oftentimes takes several swings of a sword to get a single hit on something directly in front of you, and overall, just made the game less enjoyable to play. additionally, while trying to find more information about this update, i found that the person in charge of moderating the steam discussions seems to enjoy nuking topics about the game that aren't singing its praises, criticizes customers for daring to speak negatively about the game, and considers the opinions of users that have complaints or concerns ""useless.""really enjoying the game pocketpair is likely better known for now, palworld, and am hoping they continue to improve it, but after returning to this game after a long break, it's even made me concerned about that game as well (even though i've already gotten a good amount of fun out of palworld). it's really disappointing to see a game you bought in early access not only fail to improve, but actively get worse, after years of waiting. if there are customers out there that are waiting for updates to palworld, and were hoping to take a peak into pocketpair's back catalogue to tide them over, i'd highly recommend against getting this one at this point.at one point, i would've recommended it, but no longer can, considering the state the game is in."	not recommended	1862	17.9	posted: february 2	craftopia
+good game, things they learned here led to palworld.	recommended	61	77.1	posted: february 10	craftopia
+basically palworld but worse and abandoned.rare updates that dont really do much for the game. feels exactly the same to play now as it did a few years ago. expect more games like palworld in the future. a good coat of paint and you can resell anything	not recommended	223	14.9	posted: february 4	craftopia
+i remember the old game setup not even close to the 1 that is out now.more to look at and explore!	recommended	95	35.1	posted: 31 march	craftopia
+thank god there is no character weight	recommended	49	5.6	posted: february 18	craftopia
+been playing for some time, and would like to see some improvements.overall, i enjoy the game, 170.2 hours played as of this review. however, the multiplayer is still incredibly unstable and kinda affects the overall quality. recently, i was on a multiplayer server and was upgrading a pet in the pet management machine. the server booted me off , as its done several times before.. but this time i lost my level 47 pet. nowhere to be found.its kicked me out idk how many times at this point, at pretty cruicial times. boss fights with friends, crafting something, upgrading equipment. i've lost hours of grinding and gold on this pet though. had most abilities maxed out on it and spent alot of time leveling it. feeling particularly frustrated about this..	not recommended	646	183.3	posted: february 10	craftopia
+love craftopia b)being able to bring in your own character model is honestly a big + and got me interested in an another app i didn't think id touch in much detail.its still early access so i hope they will keep working on it.	recommended	200	7.4	posted: february 4	craftopia
+this game still looks very promising, but needs much more time before it's playable without frustration. definetly needs some qol like crafting out of chests.	not recommended	151	16.9	posted: february 7	craftopia
+cute	recommended	21	74.2	posted: march 8	craftopia
+product refundedi liked the idea it was going for but it is really unpolished and not worth it. the building sucks. the combat is subpar. kinda wish the devs gave it more attention but it's been in early access for like 4 years.	not recommended	203	1.0	posted: february 28	craftopia
+with the implementation of the seamless update (one big giant world instead of small island sections to travel too), the game has improved a lot. if you like an open world sandbox where you can build automation then this is the game for you. the building takes a little bit to get used to but other then that it's worth playing. another nice thing is that you can adjust the world settings even after your world is created and the same thing goes for your character as well. your character and your world is separate from one another which is a big plus. overall it's a fun game to get lost in and i highly recommend it.	recommended	521	205.0	posted: february 20	craftopia
+pretty good	recommended	27	21.1	posted: february 9	craftopia
+go to play palword	not recommended	32	8.6	posted: february 6	craftopia
+🎈i recommend this game because its high quality and i'm a survival game fan u gotta try this game now 🎈	recommended	100	73.4	posted: march 19	craftopia
+my friends and i didn't enjoy craptopia.	not recommended	51	1.1	posted: january 31	craftopia
+it is still in a /very/ alpha state. many items have no descriptions, some mechanics are half implimented, sound effects are missing, one later town has placeholder [test:5 stone] quests. with a lot of effort seemingly being spent on newer, better things like palworld and nevergeave. im worriedif it will ever get more substantial updates.if it does, it has incredible potential.	not recommended	337	57.8	posted: february 13	craftopia
+very very disappointing. so clunky and buggy, its unplayable imo.	not recommended	73	0.3	posted: march 11	craftopia
+thanks for buying palworld as a day 1 funder of craftopia :)	not recommended	66	9.5	posted: february 7	craftopia
+i picked it up again recently to see how the game is doing and it has changed completely in how it was set up to be played when it first came out.honestly the developers 1000% already moved on to pal world. this game is basically dying slowly.	not recommended	214	11.0	posted: march 25	craftopia
+this game has come a long way over the years and doesn't deserve all the hate it's getting because palworld came out. it's even been updated since then. what matters is that it's fun! right?	recommended	173	8.0	posted: february 1	craftopia
+ive been playing this game off and on for years and really like it! i havent played palworld yet but been following the updates for it the last year or so.. happy for the makers of these games and i cant wait to see what they do with craftopia now with all the palworld monies :d this game isnt perfect, its been in early dev forever, and there are some things i am ecited to be added.. but i believe in this game and the roadmap :d btw they just updated it on jan 24 so theres a new biome :3 give it a chance its fun when you get started and a couple mods will make it easier to build (add grid) pls dont be mean to this game :(	recommended	516	235.0	posted: january 26	craftopia
+the jittering and constant visual glitches made this unplayable (sadly). concept is very cool though!	not recommended	104	1.2	posted: february 10	craftopia
+after an announcement made in the palworld discord about craftopia i decided to check out some gameplays and give it a shot. i actually like craftopia more than i like palworld. it just, feels better to play and somehow it doesn't feel repetitive. after playing multiple runthroughs with palworld (which i also like) i find myself preferring craftopia because palworld gets boring once its time to level up endgame pals. i just gave up because the condenser requires just too much and i lost interest. building in palworld was also too limited. while the interface of craftopia is similar, the gameplay focuses on crafting rather than catching pals. i love crafting when its worth it. craftopia makes it worth it. will update as i get through more of the game	recommended	647	20.8	posted: march 17	craftopia
+my pc is more than capable, yet the game performs as if i am using a potato. the bike is extremely janky and handles terribly. the building is pretty good but finding a nice place to build is almost impossible. the game is actually pretty decent, but still needs tons of work especially performance wise.	not recommended	267	16.8	posted: february 16	craftopia
+very good game. i recommend it to everybody who enjoy erg, survival, sandbox game. it's still in early acces so a lot of bug are there, but than again since it is in early verzion than we shoul expect a lot more to come. the developer is as well very active since the uptade about bug fix are comming out pretty fast. ps: sorry about my bad english.	recommended	299	7.1	posted: march 15	craftopia
+this game is fun, and engaging, if a bit grindy. i think the magic is my favorite part.	recommended	87	22.3	posted: 1 april	craftopia
+if you liked the game earlier in the early access you might not like it now. i don't know why things were changed to how they are now. but i liked starting on a small tutorial island then going to other places. i played it today for about 2hrs to see if i could go to new places but if thats still in the game its not accessable til much later now. its def extended the gameplay, but i am not enjoying it as much as i used to. i do enjoy the quests from the villagers and such that you can get now. it just feels like a completely different game.	not recommended	452	63.5	posted: february 19	craftopia
+i love this game, it is one of my top. so fun and building, i enjoy this game!!!!	recommended	81	38.5	posted: february 7	craftopia
+fun zelda. if you love zelda totk	recommended	44	9.6	posted: february 16	craftopia
+way better with the open world	recommended	42	21.6	posted: february 3	craftopia
+palworld = good game that carry your company ?what about this game = trash ?please fix your game pocketpair.	not recommended	107	19.0	posted: january 31	craftopia
+ya craft make fun.. die to goblin make sad	recommended	51	41.6	posted: march 5	craftopia
+it is an amazing game and it's full of fun interactive quests and adventures! best game on steam that i have played.	recommended	112	219.8	posted: february 14	craftopia
+game worked fine but now doesn't work even though i meet the minimum system requirements. game is not optimized well for lower-end pcs. it's ram intensive and 16gb ram and not shared should be minimum, but really you need 32 gb ram minimum.	not recommended	215	20.7	posted: march 17	craftopia
+is the game perfect? no, but the devs seem to care about it and it is getting updates and patches to make improvements.i've put almost 300 hours into the game and there have been moments of frustration but they are few and far between. if you like crafting games and clearing dungeons, this is the game for you.	recommended	271	300.7	posted: february 3	craftopia
+good	recommended	21	38.9	posted: february 27	craftopia
+i remember back when they had the tiny islands for maps, and how dull it was to explore such a tiny map. it made vehicles useless, save maybe the helicopter. the seamless update fixed that for me, and i was enjoying it for a long time. as a game, it mixes a bunch of my favourite rpg aspects into a mix of survival craft. they developed pal world too. if i had to go back and pick between which one to play again it would be craftopia. pal world was an over night hit, but ill be honest i had to stop. it was less fun than craftopia for me. palworld has a problem: lack of story.im more of an rpg gamer to be honest... i play a title to the end (or until i get bored) and i move to the next. gaming is my version of reading books. the stories video games can tell and how they tell it is amazing. i feel palworld has that missing, while craftopia at least has a generic storyline.	recommended	721	197.1	posted: february 25	craftopia
+god i wish breath of the wild was on steam	recommended	50	37.0	posted: march 28	craftopia
+craftopia is the applebee's of video games.it's this weird amalgamation of unity assets glued together that tries to call itself a video game.it's soulless, pointless, and although it still gets updates, this game will and can never be in a finished state.you can't finish developing a game when it's not really a game.the animations are jank, the particle effects are jank, the systems are jank, the combat is jank, the crafting is jank. it feels like someone loaded up a bethesda game with 1000 mods that barely work.but i suppose if you have low standards and love how diverse the applebee's/chili's/tgif menu is, this is the game for you!	not recommended	551	16.5	posted: february 3	craftopia
+to many bugs and to few instructions.	not recommended	48	0.6	posted: january 25	craftopia
+this game feels like a soulless combination of everything that was popular from 2015 to 2020. no systems interact well, everything is buggy and janky. performance is ♥♥♥♥ and game looks like ass. can still be fun with friends tho, if you just try to make the best out of it. sadly, this game seems to have been abandoned even before the release of palworld, with minor changes and bugfixes instead of gameplay improvements being a majority of content provided over the last months.	not recommended	415	28.7	posted: january 26	craftopia
+i'm sorry but this is unplayable. took the best bits and made palworld.	not recommended	76	0.6	posted: february 9	craftopia
+come on guys, it's already been 3 years; why is it still early access? don't focus only on palworld; this game has great potential.	recommended	125	43.4	posted: february 27	craftopia
+horrible game. multiplayer is unstable and monsters move with extremely low fps. mechanics heavily inspired by games like genshin impact and breath of the wild. some of the assets and animations looked stolen right out of genshin which would not surprise me because the developer of this game also did palworld which is under scrutiny for using ai and stolen assets.steam will not refund me and i am now stuck with this garbage. 👍 would not recommend buying even on sale	not recommended	407	5.5	posted: february 23	craftopia
+has come a long way from the start. the world is huge, the game play is quirky. i look forward to seeing how it developed now the the studio has a lot more resources.	recommended	150	76.4	posted: february 19	craftopia
+its a very fun game with a lot of content and super fun things and activites to do (really solid game)	recommended	99	94.7	posted: february 3	craftopia
+good	recommended	21	162.9	posted: february 4	craftopia
+gud gam	recommended	23	23.3	posted: january 28	craftopia
+really need to polish the game, but look promising. please give it some love.	recommended	81	0.8	posted: february 7	craftopia
+ya'll haven't heard of scrap mechanic if you think this is an abandoned game... sad to see so many ignorant reviews saying they abandoned this for palworld when they've been actively updating and improving the game for the last year.i'm just really confused why craftopia got review bombed for no reason whatsoever. hope steam deletes the irrelevant reviews just meant to tank this game.	recommended	341	12.1	posted: january 25	craftopia
+never kept my interest when it first came out. tried the newest update after not playing for years and it just doesn't feel good to play.	not recommended	129	5.9	posted: february 1	craftopia
+i got far in the game then they changed all of it.	not recommended	56	51.3	posted: january 29	craftopia
+it's like taking zelda, minecraft, and pokemon and then putting them in a blender	recommended	85	6.8	posted: 2 april	craftopia
+naughty devs finish this game!!! rain me with clown awards come on xd	not recommended	74	5.7	posted: february 1	craftopia
+all legends has its early form. game it self is not bad at all.its not as polished as palwrold but, definitely a fun game still.	recommended	121	204.0	posted: february 1	craftopia
+this game is an absolutely janky and ridiculously buggy mess and i love everything about it. it's got a bit of everything and it's a hilariously awesome. it's clearly not a finished product, but once it's done, this is definitely going to be a real treasure. i will admit that it's not for everybody, but i also say it's basically designed to be. i say give it a chance.	recommended	319	283.4	posted: march 31	craftopia
+giving this game a positive review because it's still being developed. it's never had this much content before, people are crying for no reason.to the people who are crying about this game ceasing development because of palworld: no. it hasn't.	recommended	222	36.7	posted: march 25	craftopia
+"pocketpair ruthlessly butchered this game. the original was a creative take on the survival exploration genre until they removed every ounce of creativity from it with the seamless world update and made it dollar store breath of the wild.they removed everything that made craftopia good, suddenly it was no longer about visiting new lands for resources, it became about following missions across an uninspired world, utterly bankrupt of anything and everything that made the first versions a fun game. there feels like there is no reason to set up a base, or at least not until you've already played through the whole game and finished all the bland objectives.you think i'm being harsh? the ceo or pocketpair has gone on record bragging about how creatively bankrupt they are. i quote ""i don’t necessarily have to be particular about originality. i’m thinking about it. i want to make it more casually. i think it would be a good idea to create things in a way that just jumps on what is trendy"" genuinely, just making games to capitalise on fads for a quick buck. he doesn't care about making decent, well-thought out games, he cares about ripping off current ips to make a quick buck. their next game looks identical to hollow knight, and he is boasting about it.even palworld is likely to be abandoned as soon as it stops being profitable for this lazy, greedy company in favour of other endeavours that ripoff other, more successful games. genuinely, they do not care about the game they make. they care about being uninteresting and making money.so please people, next time you're looking at a pocketpair game, remember that they do not care about making a good game, they care about copying other games and taking your money. do not support them."	not recommended	1471	24.5	posted: february 6	craftopia
+"this game is the very embodiment ""jack of all trades, master of none"".yes, it has elements of (insert game genre here) but they are probably done better on (game that focuses only on sole genre). yes, that includes crafting. building. colony sim. farming. fps. vehicle combat. minion combat. survival. exploration. storyline.... and am sure there are thousands more different genre niches that this ticks off. can you idle to gain resources like an idle game? sure! can you focus on dungeon crawling? absolutely!do not go into this game expecting the best rpg elements or the best automation elements, but know that it has those elements and more. and it does each genre justice, too!9/10 if you want to play a game that is all the games.5/10 if you want to play for a specific genre."	recommended	667	13.7	posted: march 1	craftopia
+this game has such a huge potential, at this point i think it was a testing block for palworld.pros:tame creaturesautomation for grindingfun combatgreat skill treehuge sandboxcreativity for building can go farcons:horribly unstable multiplayerno real end game contenteven with npc quests game feels deadvery little customization for charactersregular movement can be clunklyrating 6/10i would recommend if wanting a nice singleplayer experience and more of a chill laid back gameplay. would rate higher if the game had more features and multiplayer was more stable.	recommended	501	5.4	posted: march 11	craftopia
+the frame rates are not good. i have adjusted everything and there still are issues where this can be totally unplayable to 90% of players out there.	not recommended	140	392.7	posted: march 5	craftopia
+i don't like it!	not recommended	30	0.2	posted: february 14	craftopia
+very fun, a bit janky at times, but overall very good and enjoyable.	recommended	73	19.4	posted: february 2	craftopia
+love it, just needs way more time and updates	recommended	54	26.9	posted: january 31	craftopia
+craftopium	recommended	27	5.3	posted: january 28	craftopia
+good way to spend time	recommended	35	3.5	posted: january 25	craftopia
+👍	recommended	18	77.3	posted: february 6	craftopia
+dude i wanna play this game so bad, but no matter what i do i never get above 50 fps. doesn't matter how empty the area is and what settings i use, and my pc is pretty good.please let me play aaaaaaaa	not recommended	176	2.5	posted: january 31	craftopia
+unplayable. too expensive in this situation.	not recommended	56	9.6	posted: march 27	craftopia
+seems people are cr@ping on this game because of pal worlds success. don't be fooled by the fake reviews. this is a good game.	recommended	120	138.5	posted: february 2	craftopia
+this game is really fun and it reminds me a of breath of the wild a bit, this games' leveling system is really cool, it's still under development, but it worth the buy!:d	recommended	155	103.0	posted: january 31	craftopia
+hehehehe 69 hours!	recommended	33	75.9	posted: february 3	craftopia
+for something that stole so much content, it's just absolutely the worst game i've ever played	not recommended	96	44.7	posted: january 27	craftopia
+"craftopia is an amusing riddle.just like many ""open world"" crafting/survival -esque games, there is barely any objective other than to wander around and armor yourself with whatever you want/can. this means that you can take your time and do whatever next you desire, but at the same time, lacking any defined ultimate goal.""crafting"" seems to be the short term goal, and you can eventually do factories that do things in-masse, like an infinite number of hot dogs or massively producing weapons: you can use those to clear some ""achievements"" which is always to sacrifice x amount of items, so you can get a barely noticeable increase of stat (ranging from decimal points of strength, critical damage, or a sometimes laughable amount of experience).the problem is that most of these stat increases are so little, that there is little reward to sacrifice some valuable items, so you end up ignoring those completely.graphics are okay, can be both breathtaking or boring, depending on what you looking at.design choices...well, there is a lot to say.there is quite a lot of animal abuse (done in a cartoonish way) but the animals and some monsters styles are somewhat mismatched (most livestock have a realistic design, but goblins are too goofy, for example). still, some people may find that annoying.there is still a lot of issues with the skill tree, some skills scaling normal, some others scale extremely poorly, have awkward execution (skill attacks in place while enemy easily moves to the sides), the targeting system needs some work and overall, hitting and smashing enemies should feel satisfying, which right now i cannot concur.oh and just for anyone new, there are 2 versions of this game, but this review is mostly for the new version.pros:+graphics are nice, maybe a bit average by today standards.+a lot of out of place things that will make you chuckle, try bombing a goblin with a tank.+barely any limits on when building/crafting is involved, so you can do whatever you want.+quite a good amount of quirky items, like guns, helicopters, cars, etc.+many new life improvements (like enchanting, pets or bigger item stacks). bosses can be fought multiple times easier, without having to go through the dungeons over and over.+able to max out the number of sacrificed items for every category is a good goal...cons-...if the incentives where a bit better.-despite its improvements over the first version, some things have been nerfed negatively (heal has a super long delay, refinement stones can only be acquired via disassembly, some recipes are anubis gated or harder to get, among others)-battle system still feels clunky.-physics still have many problems and you can no longer do some things that you could before effectively (the farm stack works, but it may clip on the ground, be flown way by fans or conveyors, etc).-goddawful character creation options: extremely limited amount of faces, hairstyles,etc. for a game that brags on world customization, its pretty limited on this department.-no story, pretty much. no ""real"" characters to interact, no real motive for adventuring/surviving, other than ""oops, i did a bubu""-npcs look a bit better, but still are lifeless drones. at least they no longer poop in place. or maybe they do.-just one island with many biomes. i preferred having multiple islands with their respective biome.neutral= is it wrong if i prefer some of the older ""puzzle"" or challenge type dungeons from the previous release?= where is the log guy? i want to give him a log.just like my review, craftopia is all over the place, but i feel confident that you may find somewhat you may like so, even with all its flaws, i can recommend it, as long as you don't have high expectations.either making a farm and forgetting about adventure, wandering around and finding stuff, crafting stuff to infinity, or making the sky castle you always wanted.do whatever and poop wherever you want."	recommended	3299	481.1	posted: march 20	craftopia
+this is a very fun, grindy, survival, anime style graphics. so much to do you'll be busy for a long time. i really recommend it.	recommended	121	54.1	posted: march 2	craftopia
+i really didn't remember this game being this awful. after the realease of palworld i wanted to check this game again, i never got to try the seamless world update.to sum it all up, the update made the game worse and more difficult to understand, it copied zelda breath of the wild even more and started to be a beta for what is now palworld, which seems a bit more polished, but sadly it is proof that the devs just make games and leave them unpolished in early acess for years just to have an excuse. such a pity, i really wanted to love this game, trust me i trusted them in the early days, they had potential, not anymore tho...	not recommended	529	10.2	posted: february 1	craftopia
+gud	recommended	20	20.8	posted: march 25	craftopia
+if i could turn the pagein time then i'd rearrange just a day or twoclose my, close my, close my eyesbut i couldn't find a wayso i'll settle for one day to believe in youtell me, tell me, tell me liestell me lies, tell me sweet little liestell me liestell me, tell me liesoh no-no, you can't disguiseyou can't disguiseno, you can't disguisetell me lies, tell me sweet little liesalthough i'm not making plansi hope that you'll understand there's a reason whyclose your, close your, close your eyesno more broken heartswe're better off apart, let's give it a trytell me, tell me, tell me liestell me lies, tell me sweet little liestell me liestell me, tell me liesoh no-no, you can't disguiseyou can't disguiseno, you can't disguisetell me lies, tell me sweet little liesif i could turn the pagein time then i'd rearrange just a day or twoclose my, close my, close my eyesbut i couldn't find a wayso i'll settle for one day to believe in youtell me, tell me, tell me liestell me lies, tell me sweet little liestell me liestell me, tell me liesoh no-no, you can't disguiseyou can't disguiseno, you can't disguisetell me lies, tell me sweet little liestell me liestell me, tell me liesoh no-no, you can't disguiseyou can't disguiseno, you can't disguisetell me lies, tell me sweet little liestell me, tell me lies	not recommended	1099	108.9	posted: march 16	craftopia
+"i would like to start this review by stating the fact that i did enjoy my time playing craftopia and got it way back when during the early days of release, but it was just a major let down whenever the updates stopped rolling out.it probably should have been red flags to me whenever they said the team was going to be developing another game while craftopia was still being early access. this didn't really phase me too much because i trusted the size of the developer team and the scale of the game and was hopeful they stuck with their promise of having craftopia updates along side the new game known to everyone as ""palworld"". all of the faith i had in the company quickly disappeared as soon as i saw the number of people purchasing and playing their new game and making it one of the biggest hits on steam rivaling some of the most popular games within just a few days of release. was this a problem? no. i am glad the company struck gold and is making profits where they earned it. was this a huge concern of mine? yes. this means the game they released prior to palworld loses all of its value and goes right out of the window because they now have this giant cash cow that prints money and the developers would like to retain and further obtain players. what does this mean for craftopia? it will get way less updates if none at all (which it currently has had zero proper major updates since seamless came out). again it is still early access, but people that purchase a game in this state expects some sort of attention to the game in the form of updates even if they are a few months apart and not over a year. but who knows maybe palworld will actually get constant updates because it has so many eyes on it vs craftopia.in conclusion:please do not buy this game if you are expecting it to be updated further than it currently is and if you are playing the older version (pre-seamless) i recommend playing that version of the game because it has way more content in it than the current version (seamless stripped away so much of the content in the prior update that they went from 7/10 progress all the way back down to 2/10 for terms of quality content)."	not recommended	1782	224.2	posted: january 25	craftopia
+been playing craftopia on and off for two years now and honestly super fun game with a lot of options and things to keep you busy for weeks at a time without being bored.	recommended	154	17.3	posted: january 27	craftopia
+game is progresing in right direction, becoming more enjoyable, kids love it and so do us adults	recommended	97	44.1	posted: march 25	craftopia
+don't buy until it is finished. great concept, but more than half of the items don't work, most of the items don't even have descriptions, and if you're like me, it will take you more than 2 hours (the play hours allowed to return the game) to find out the automations and machines meant to be crafted don't work once you craft them and place them. you will waste your money if you are expecting a fully(or even mostly) playable game. this game was used as a cash grab and has been left incomplete but available for sale over 3 years.	not recommended	451	45.0	posted: february 19	craftopia
+"craptopia.3 hours to find 5 bright herbs to craft a magic staff only to find something better than whole craft by 25% in the end to get ""0 damage increase"".i gave this game a chance 3 times..."	not recommended	173	45.7	posted: january 31	craftopia
+knew what i was getting into going into this. any game that holds my attention span for more than 2 hrs. is pretty solid in my book.	recommended	123	19.5	posted: january 26	craftopia
+katana goes double whoosh!!	recommended	41	7.1	posted: february 10	craftopia
+it's cool	recommended	25	112.3	posted: 4 april	craftopia
+an amazingly fun game. you can spend a lot of time building up and i wouldn't really call it a grind game.really happy about the recent updates and they have been updating all along. for the price, you can easily sink 50-60 hours just completing the basics. one of my favorite games with a good road map for 2024 and beyond!!	recommended	282	75.7	posted: february 1	craftopia
+"yes it's still in early access and yes there are a lot of bugs and things that don't work properly. yes the dialogue and npcs are carbon copies of eachother and the quest system is your standard, ""collect 5 of x"" or ""kill x monster"" but i adore this game any how. sue me."	recommended	235	65.3	posted: march 26	craftopia
+there's not getting around it. it's breath of the wild. or rather breath of the wild+.think everything that breath of the wild has but with also base building, farming, monster collecting, and multiplayer.it has some kinks to work out but other than that it's a pretty great game.	recommended	250	13.6	posted: february 7	craftopia
+in ea since more than 3 years. didnt add much to the game and ♥♥♥♥♥♥♥♥ buggy. just released a new game instead /clown	not recommended	112	6.6	posted: february 1	craftopia
+considering the developers currently have 3 early access titles in development simultaneously, and their most recent release palworld has most of the features people expected of craftopia, i have no confidence this title will ever reach it's promised potential, especially when palworld is one of the biggest games ever on steam. just buy that instead.	not recommended	315	27.2	posted: january 25	craftopia
+rest well my sweet prince. you were so fun before the seamless world update when everything broke..and now they turned you into palworld. :(i highly doubt after the success of palworld, we will see further work on craftopia. it would be wonderful but i just don't logically see it happening. before the seamless world update, i absolutely would have recommended this game. it was a ton of fun, had a great mix of open world/fighting/survival...i hope i'm wrong and pocketpair continues to develop craftopia.	not recommended	441	8.5	posted: january 25	craftopia
+devs just took most of what's here and stuck it in palworld. news/stories keep saying palworld didn't take long it's simple they took what they already developed craptopia re-skinned it to what is super popular today. so many other developers need to learn thier lessons like this dev did. take all of it put it in the game even if it sucks or is controversial. the player base will use what they like and dump/ignore the rest. then take that add anyting else that is/was popular try again.	not recommended	420	31.8	posted: february 20	craftopia
+

@@ -1,0 +1,4 @@
+game	total_recommend	average_review_length	total_not_recommend
+craftopia	90	304.02666666666664	60
+lethal companies	142	84.10666666666667	8
+palworld	141	110.18666666666667	9
