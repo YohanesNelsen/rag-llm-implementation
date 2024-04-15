@@ -1,0 +1,8 @@
+selenium
+pandas
+pyspark
+numpy
+requests
+nltk
+scikit-learn
+IPython
