@@ -3,8 +3,8 @@
 This project utilise data from Steam, a popular online market for pc games. I webscrape several information, clean it, utilise apache spark and apply RAG and LLM to analise it.
 
 # Requirements
-Microsoft Edge browser <br>
-Compatible version of EdgeDriver for webscrapping <br>
+Chrome browser <br>
+Compatible version of ChromeDriver for webscrapping <br>
 Ai8 Platfom for LLM and RAG implementation <br>
 All folders from this project must be downloaded
 
